@@ -1,0 +1,22 @@
+sister brother girl boy
+her his sisters brothers
+grandmother grandfather mom dad 
+bride groom mother father 
+aunt uncle grandma grandpa
+niece nephew grandaughter grandson 
+queen king she he 
+grandma grandpa her his 
+woman man wife husband 
+daughter son woman man 
+stepsister stepbrother daughters sons 
+stepmother stepfather stepdaughter stepson 
+daughter son niece nephew 
+sister brother princess prince 
+niece nephew daughter son 
+grandma grandpa stepsister stepbrother 
+aunt uncle stepmother stepfather 
+mom dad stepdaughter stepson 
+girl boy aunt uncle  
+mother father lady gentleman 
+
+

@@ -1,0 +1,24 @@
+acceptable unacceptable fortunate unfortunate
+aware unaware logical illogical
+certain uncertain honest dishonest
+clear unclear consistent inconsistent
+comfortable uncomfortable efficient inefficient
+competitive uncompetitive informative uninformative
+consistent inconsistent possible impossible
+convincing unconvincing decided undecided
+convenient inconvenient ethical unethical
+fortunate unfortunate informative uninformative
+impressive unimpressive known unknown
+informed uninformed tasteful distasteful
+known unknown rational irrational
+rational irrational certain uncertain
+ethical unethical reasonable unreasonable
+honest dishonest acceptable unacceptable
+informative uninformative comfortable uncomfortable
+likely unlikely responsible irresponsible
+logical illogical pleasant unpleasant
+possible impossible sure unsure
+
+
+
+

@@ -1,0 +1,22 @@
+acceptable unacceptable good bad 
+aware unaware great terrible
+certain uncertain happy sad 
+clear unclear big small
+comfortable uncomfortable tall short 
+competitive uncompetitive hot cold
+consistent inconsistent funny boring 
+convincing unconvincing light dark
+convenient inconvenient healthy sick 
+ethical unethical awake asleep
+fortunate unfortunate hard soft 
+impressive unimpressive fast slow
+informed uninformed nice naughty 
+known unknown clear cloudy
+rational irrational day night
+reasonable unreasonable sharp dull
+honest dishonest high low
+informative uninformative open closed
+likely unlikely reap sow
+logical illogical pleasant distasteful
+
+
