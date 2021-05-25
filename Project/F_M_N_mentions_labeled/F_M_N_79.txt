@@ -1,0 +1,1 @@
+Q1 = +3 109C Q2 = 5 109C Step 4: Check units Next is another example that demonstrates the difference in magnitude between the gravitational force and the electrostatic force.

@@ -1,0 +1,1 @@
+Step 3: Determine the magnitude of the resultant We have a right angled triangle. We also know the length of two of the sides. Using Pythagoras we can find the length of the third side. From what we know about resultant vectors this length will be the magnitude of the resultant vector.
