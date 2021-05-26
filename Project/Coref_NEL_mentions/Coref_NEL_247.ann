@@ -1,10 +1,14 @@
-T1	Person1 0 12	 Isaac Newton
-T2	Person1 33 35	 He
-T3	Person1 23 25	 he
-T4	Person1 6 12	 Newton
-*	Same_Person T1 T2 T3 T4
-T5	Person2 118 125	 Jessica
-T6	Person2 145 148	 She
-*	Same_Person T5 T6
-T7	InDatabase 0 12 Isaac Newton
-T8	InDatabase 6 12 Newton
+T1	Person1 874 877	man
+*	Same_Person T1
+T2	Person2 1 477	ass and its SI Unit Mass (a measure of the amount of matter in an object) and weight are not the same thing. Although we often use these terms interchangeably, each one has a specific definition and usage. The mass of an object remains the same regardless of where the object is placed. For example, moving a brick to the moon does not cause matter in the brick to disappear or to be removed. The weight of an object is the force of attraction between the object and the Earth
+T3	Person2 41 43	he
+T4	Person2 548 877	This attraction is due to the force of gravity. Since the force of gravity is not the same at every point on the Earth's surface, the weight of an object is not constant. The gravitational pull on the object varies and depends on where the object is with respect to the Earth or other gravity-producing object. For example, a man
+T5	Person2 1145 877	
+T6	Person2 40 877	the amount of matter in an object) and weight are not the same thing. Although we often use these terms interchangeably, each one has a specific definition and usage. The mass of an object remains the same regardless of where the object is placed. For example, moving a brick to the moon does not cause matter in the brick to disappear or to be removed. The weight of an object is the force of attraction between the object and the Earth (or whatever large, gravity-producing body the object is located on). This attraction is due to the force of gravity. Since the force of gravity is not the same at every point on the Earth's surface, the weight of an object is not constant. The gravitational pull on the object varies and depends on where the object is with respect to the Earth or other gravity-producing object. For example, a man
+*	Same_Person T2 T3 T4 T5 T6
+T7	Person3 874 877	man
+*	Same_Person T7
+T8	Person4 874 877	man
+*	Same_Person T8
+T9	Person5 874 877	man
+*	Same_Person T9

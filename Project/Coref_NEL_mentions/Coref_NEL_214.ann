@@ -1,10 +1,14 @@
-T1	Person1 0 12	 Isaac Newton
-T2	Person1 33 35	 He
-T3	Person1 23 25	 he
-T4	Person1 6 12	 Newton
-*	Same_Person T1 T2 T3 T4
-T5	Person2 118 125	 Jessica
-T6	Person2 145 148	 She
-*	Same_Person T5 T6
-T7	InDatabase 0 12 Isaac Newton
-T8	InDatabase 6 12 Newton
+T1	Person1 98 104	mother
+*	Same_Person T1
+T2	Person2 55 106	the short period of development within the mother's
+T3	Person2 101 104	her
+T4	Person2 55 104	the short period of development within the mother
+T5	Person2 101 104	her
+T6	Person2 55 104	the short period of development within the mother
+T7	Person2 101 104	her
+T8	Person2 405 408	she
+*	Same_Person T2 T3 T4 T5 T6 T7 T8
+T9	Person3 98 104	mother
+*	Same_Person T9
+T10	Person4 98 104	mother
+*	Same_Person T10

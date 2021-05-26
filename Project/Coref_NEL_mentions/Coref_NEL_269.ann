@@ -1,10 +1,8 @@
-T1	Person1 0 12	 Isaac Newton
-T2	Person1 33 35	 He
-T3	Person1 23 25	 he
-T4	Person1 6 12	 Newton
-*	Same_Person T1 T2 T3 T4
-T5	Person2 118 125	 Jessica
-T6	Person2 145 148	 She
-*	Same_Person T5 T6
-T7	InDatabase 0 12 Isaac Newton
-T8	InDatabase 6 12 Newton
+T1	Person1 119 133	Thomas Malthus
+*	Same_Person T1
+T2	Person2 119 144	Thomas Malthus (17661834)
+T3	Person2 171 173	He
+T4	Person2 126 133	Malthus
+*	Same_Person T2 T3 T4
+T5	InDatabase 119 133	Thomas Malthus
+T6	InDatabase 126 133	Malthus

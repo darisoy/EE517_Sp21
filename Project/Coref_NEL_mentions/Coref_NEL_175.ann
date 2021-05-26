@@ -1,10 +1,15 @@
-T1	Person1 0 12	 Isaac Newton
-T2	Person1 33 35	 He
-T3	Person1 23 25	 he
-T4	Person1 6 12	 Newton
-*	Same_Person T1 T2 T3 T4
-T5	Person2 118 125	 Jessica
-T6	Person2 145 148	 She
-*	Same_Person T5 T6
-T7	InDatabase 0 12 Isaac Newton
-T8	InDatabase 6 12 Newton
+T1	Person1 101 114	David Quammen
+*	Same_Person T1
+T2	Person2 200 210	Carl Sagan
+*	Same_Person T2
+T3	Person3 336 351	Jonathan Weiner
+*	Same_Person T3
+T4	Person4 37 51	Michael Pollan
+*	Same_Person T4
+T5	Person5 59 380	The Botany of Desire, Random House, 2002. David Quammen, 1997. The Song of the Dodo: Island Biogeography in an Age of Extinctions. Scribner. Carl Sagan, 1980. Cosmos. Random House New Edition, May 7, 2002, 384 pgs also available in video and DVD, as Cosmos: A Personal Voyage. Jonathan Weiner, 1994. The Beak of the Finch
+*	Same_Person T5
+T6	Person6 416 431	Alfred A. Knopf
+*	Same_Person T6
+T7	InDatabase 101 114	David Quammen
+T8	InDatabase 200 210	Carl Sagan
+T9	InDatabase 336 351	Jonathan Weiner

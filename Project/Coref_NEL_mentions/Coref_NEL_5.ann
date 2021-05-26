@@ -5,5 +5,4 @@ T3	Person1 7 17	Fahrenheit
 T4	Person2 404 418	Anders Celsius
 *	Same_Person T4
 T5	InDatabase 0 17	Daniel Fahrenheit
-T6	InDatabase 7 17	Fahrenheit
-T7	InDatabase 404 418	Anders Celsius
+T6	InDatabase 404 418	Anders Celsius

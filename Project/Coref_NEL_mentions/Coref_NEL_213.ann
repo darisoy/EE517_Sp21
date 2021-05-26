@@ -1,10 +1,4 @@
-T1	Person1 0 12	 Isaac Newton
-T2	Person1 33 35	 He
-T3	Person1 23 25	 he
-T4	Person1 6 12	 Newton
-*	Same_Person T1 T2 T3 T4
-T5	Person2 118 125	 Jessica
-T6	Person2 145 148	 She
-*	Same_Person T5 T6
-T7	InDatabase 0 12 Isaac Newton
-T8	InDatabase 6 12 Newton
+T1	Person1 26 351	ant For the Teacher: K-E1 Describe economic wants they have experienced K-E1 Distinguish between goods and services K-E1 Recognize situations in which people trade K-G5 Describe ways people use the environment to meet human needs and wants ( food, shelter, clothing) Interactive 5 Puppy Needs Imagine you just got a new puppy
+T2	Person1 370 373	him
+T3	Person1 370 373	him
+*	Same_Person T1 T2 T3

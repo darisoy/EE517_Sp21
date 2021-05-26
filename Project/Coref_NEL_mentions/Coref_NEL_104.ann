@@ -1,10 +1,16 @@
-T1	Person1 0 12	 Isaac Newton
-T2	Person1 33 35	 He
-T3	Person1 23 25	 he
-T4	Person1 6 12	 Newton
-*	Same_Person T1 T2 T3 T4
-T5	Person2 118 125	 Jessica
-T6	Person2 145 148	 She
-*	Same_Person T5 T6
-T7	InDatabase 0 12 Isaac Newton
-T8	InDatabase 6 12 Newton
+T1	Person1 438 449	Clark Gable
+*	Same_Person T1
+T2	Person2 454 467	Jimmy Stewart
+*	Same_Person T2
+T3	Person3 102 105	men
+*	Same_Person T3
+T4	Person4 392 397	women
+*	Same_Person T4
+T5	Person5 647 652	Women
+*	Same_Person T5
+T6	Person6 647 652	Women
+*	Same_Person T6
+T7	Person7 732 737	woman
+*	Same_Person T7
+T8	InDatabase 438 449	Clark Gable
+T9	InDatabase 454 467	Jimmy Stewart

@@ -1,10 +1,21 @@
-T1	Person1 0 12	 Isaac Newton
-T2	Person1 33 35	 He
-T3	Person1 23 25	 he
-T4	Person1 6 12	 Newton
-*	Same_Person T1 T2 T3 T4
-T5	Person2 118 125	 Jessica
-T6	Person2 145 148	 She
-*	Same_Person T5 T6
-T7	InDatabase 0 12 Isaac Newton
-T8	InDatabase 6 12 Newton
+T1	Person1 141 156	Maurice Wilkins
+*	Same_Person T1
+T2	Person2 273 286	Francis Crick
+T3	Person2 281 286	Crick
+T4	Person2 273 286	Francis Crick
+*	Same_Person T2 T3 T4
+T5	Person3 291 358	James D. Watson of the Cavendish Laboratory in Cambridge University
+T6	Person3 300 306	Watson
+T7	Person3 291 306	James D. Watson
+*	Same_Person T5 T6 T7
+T8	Person4 37 54	Rosalind Franklin
+T9	Person4 46 54	Franklin
+T10	Person4 132 135	her
+T11	Person4 46 443	Franklin started working on understanding the structure of DNA fibers. Franklin, together with Maurice Wilkins, used her expertise in x-ray diffraction photographic techniques to analyze the structure of DNA. In February 1953, Francis Crick and James D. Watson of the Cavendish Laboratory in Cambridge University had started to build a model of DNA. Watson and Crick indirectly obtained Franklin's
+*	Same_Person T8 T9 T10 T11
+T12	Person5 291 306	James D. Watson
+*	Same_Person T12
+T13	InDatabase 141 156	Maurice Wilkins
+T14	InDatabase 273 286	Francis Crick
+T15	InDatabase 281 286	Crick
+T16	InDatabase 273 286	Francis Crick

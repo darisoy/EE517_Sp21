@@ -1,10 +1,20 @@
-T1	Person1 0 12	 Isaac Newton
-T2	Person1 33 35	 He
-T3	Person1 23 25	 he
-T4	Person1 6 12	 Newton
-*	Same_Person T1 T2 T3 T4
-T5	Person2 118 125	 Jessica
-T6	Person2 145 148	 She
-*	Same_Person T5 T6
-T7	InDatabase 0 12 Isaac Newton
-T8	InDatabase 6 12 Newton
+T1	Person1 325 329	Juan
+*	Same_Person T1
+T2	Person2 325 331	Juan's
+T3	Person2 325 329	Juan
+T4	Person2 325 331	Juan's
+T5	Person2 325 331	Juan's
+T6	Person2 12 14	he
+*	Same_Person T2 T3 T4 T5 T6
+T7	Person3 325 329	Juan
+*	Same_Person T7
+T8	Person4 325 329	Juan
+*	Same_Person T8
+T9	Person5 332 335	dad
+*	Same_Person T9
+T10	Person6 325 335	Juan's dad
+T11	Person6 337 340	His
+T12	Person6 12 14	he
+T13	Person6 416 419	his
+T14	Person6 416 419	his
+*	Same_Person T10 T11 T12 T13 T14

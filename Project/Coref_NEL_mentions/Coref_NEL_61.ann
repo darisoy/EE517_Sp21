@@ -1,10 +1,19 @@
-T1	Person1 0 12	 Isaac Newton
-T2	Person1 33 35	 He
-T3	Person1 23 25	 he
-T4	Person1 6 12	 Newton
-*	Same_Person T1 T2 T3 T4
-T5	Person2 118 125	 Jessica
-T6	Person2 145 148	 She
-*	Same_Person T5 T6
-T7	InDatabase 0 12 Isaac Newton
-T8	InDatabase 6 12 Newton
+T1	Person1 198 209	His uncle's
+T2	Person1 292 297	Uncle
+T3	Person1 12 15	his
+*	Same_Person T1 T2 T3
+T4	Person2 0 2	He
+T5	Person2 12 15	his
+T6	Person2 0 2	He
+T7	Person2 61 68	himself
+T8	Person2 75 77	he
+T9	Person2 198 201	His
+T10	Person2 544 550	Heitsi
+T11	Person2 75 77	he
+*	Same_Person T4 T5 T6 T7 T8 T9 T10 T11
+T12	Person3 202 207	uncle
+*	Same_Person T12
+T13	Person4 44 47	men
+*	Same_Person T13
+T14	Person5 464 469	women
+*	Same_Person T14

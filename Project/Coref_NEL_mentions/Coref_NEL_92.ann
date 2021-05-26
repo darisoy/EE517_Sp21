@@ -1,10 +1,30 @@
-T1	Person1 0 12	 Isaac Newton
-T2	Person1 33 35	 He
-T3	Person1 23 25	 he
-T4	Person1 6 12	 Newton
-*	Same_Person T1 T2 T3 T4
-T5	Person2 118 125	 Jessica
-T6	Person2 145 148	 She
-*	Same_Person T5 T6
-T7	InDatabase 0 12 Isaac Newton
-T8	InDatabase 6 12 Newton
+T1	Person1 712 722	Mansa Musa
+T2	Person1 712 722	Mansa Musa
+T3	Person1 784 786	He
+T4	Person1 784 786	He
+T5	Person1 712 201	
+T6	Person1 712 722	Mansa Musa
+*	Same_Person T1 T2 T3 T4 T5 T6
+T7	Person2 23 35	A New Empire
+T8	Person2 3 75	abulary: pilgrimage A New Empire Rises As Ghana fell, a new empire, Mali
+T9	Person2 71 75	Mali
+T10	Person2 145 147	It
+T11	Person2 71 201	Mali, came to power. Mali rose as a powerful empire around the year 1200. It began as a small city-state of Ghana, but when Mali's
+T12	Person2 251 255	they
+T13	Person2 251 255	they
+T14	Person2 71 201	Mali, came to power. Mali rose as a powerful empire around the year 1200. It began as a small city-state of Ghana, but when Mali's
+T15	Person2 556 560	them
+T16	Person2 575 580	their
+T17	Person2 71 75	Mali
+T18	Person2 130 75	
+T19	Person2 71 75	Mali
+T20	Person2 71 201	Mali, came to power. Mali rose as a powerful empire around the year 1200. It began as a small city-state of Ghana, but when Mali's
+T21	Person2 130 69	
+T22	Person2 71 75	Mali
+T23	Person2 71 75	Mali
+T24	Person2 130 69	
+T25	Person2 130 69	
+*	Same_Person T7 T8 T9 T10 T11 T12 T13 T14 T15 T16 T17 T18 T19 T20 T21 T22 T23 T24 T25
+T26	InDatabase 712 722	Mansa Musa
+T27	InDatabase 712 722	Mansa Musa
+T28	InDatabase 712 722	Mansa Musa

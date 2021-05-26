@@ -1,10 +1,5 @@
-T1	Person1 0 12	 Isaac Newton
-T2	Person1 33 35	 He
-T3	Person1 23 25	 he
-T4	Person1 6 12	 Newton
+T1	Person1 538 565	Charles-Augustin de Coulomb
+T2	Person1 622 624	He
+T3	Person1 622 624	He
+T4	Person1 558 1544	Coulomb noticed that a force existed between charged particles. He called this force electrical force. This force was different that the gravitational force between objects with mass. The force between charged particles varied directly with the magnitude of the charges and inversely squared to the distance between the particles. For example, particles with a larger charge (either more negatively charged or positively charged) would have a greater force between them, He also noticed that this force between the charges could be either attractive (between opposite charges) or repulsive (between like charges). This is different that gravitational forces, because gravitational force can only be attractive. Similar to the gravitational force, the electrical force follows the inverse squared law with distance. As the distance between the objects increases, the electrical force between the objects decreases. The relationship between charge, distance, and force is called Coulomb's
 *	Same_Person T1 T2 T3 T4
-T5	Person2 118 125	 Jessica
-T6	Person2 145 148	 She
-*	Same_Person T5 T6
-T7	InDatabase 0 12 Isaac Newton
-T8	InDatabase 6 12 Newton

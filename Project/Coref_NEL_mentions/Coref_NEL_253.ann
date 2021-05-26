@@ -1,10 +1,77 @@
-T1	Person1 0 12	 Isaac Newton
-T2	Person1 33 35	 He
-T3	Person1 23 25	 he
-T4	Person1 6 12	 Newton
-*	Same_Person T1 T2 T3 T4
-T5	Person2 118 125	 Jessica
-T6	Person2 145 148	 She
-*	Same_Person T5 T6
-T7	InDatabase 0 12 Isaac Newton
-T8	InDatabase 6 12 Newton
+T1	Person1 398 407	Malcolm X
+T2	Person1 398 405	Malcolm
+T3	Person1 7 9	he
+T4	Person1 676 679	his
+T5	Person1 722 729	himself
+T6	Person1 676 679	his
+T7	Person1 398 407	Malcolm X
+T8	Person1 398 407	Malcolm X
+T9	Person1 676 679	his
+T10	Person1 7 9	he
+T11	Person1 7 9	he
+T12	Person1 398 405	Malcolm
+T13	Person1 7 9	he
+T14	Person1 398 850	Malcolm X was one of those leaders. Born Malcolm Little on May 19, 1925 in Omaha, Nebraska, Malcolm at the age of 20 was sent to jail for burglary. It was in prison where he studied Islam through the teachings of Elijah Muhammad, the head of the Nation of Islam. By 1952, after his release from prison, Malcolm (now ridding himself of his last name and taking the name of X) had become a minister of Islam, quickly rising in the ranks of the religion's
+T15	Person1 7 9	he
+T16	Person1 676 679	his
+T17	Person1 676 679	his
+T18	Person1 676 679	his
+T19	Person1 398 405	Malcolm
+T20	Person1 406 407	X
+T21	Person1 76 77	I
+T22	Person1 676 679	his
+T23	Person1 676 679	his
+T24	Person1 398 407	Malcolm X
+T25	Person1 676 679	his
+T26	Person1 398 405	Malcolm
+T27	Person1 676 679	his
+T28	Person1 7 9	he
+T29	Person1 398 407	Malcolm X
+*	Same_Person T1 T2 T3 T4 T5 T6 T7 T8 T9 T10 T11 T12 T13 T14 T15 T16 T17 T18 T19 T20 T21 T22 T23 T24 T25 T26 T27 T28 T29
+T30	Person2 398 453	Malcolm X was one of those leaders. Born Malcolm Little
+T31	Person2 676 746	his release from prison, Malcolm (now ridding himself of his last name
+*	Same_Person T30 T31
+T32	Person3 611 626	Elijah Muhammad
+*	Same_Person T32
+T33	Person4 618 626	Muhammad
+*	Same_Person T33
+T34	Person5 1094 1106	Mike Wallace
+*	Same_Person T34
+T35	Person6 618 626	Muhammad
+*	Same_Person T35
+T36	Person7 2817 2831	James Meredith
+*	Same_Person T36
+T37	Person8 3183 2749	
+T38	Person8 3191 3201	Carmichael
+T39	Person8 3191 3201	Carmichael
+T40	Person8 676 679	his
+*	Same_Person T37 T38 T39 T40
+T41	Person9 398 405	Malcolm
+*	Same_Person T41
+T42	Person10 398 405	Malcolm
+*	Same_Person T42
+T43	Person11 2003 405	
+*	Same_Person T43
+T44	Person12 3154 3169	Floyd McKissick
+*	Same_Person T44
+T45	Person13 1255 1258	men
+*	Same_Person T45
+T46	Person14 2817 772	
+T47	Person14 2823 850	
+T48	Person14 7 9	he
+T49	Person14 2823 2831	Meredith
+*	Same_Person T46 T47 T48 T49
+T50	Person15 3059 3062	man
+*	Same_Person T50
+T51	InDatabase 398 407	Malcolm X
+T52	InDatabase 398 407	Malcolm X
+T53	InDatabase 398 407	Malcolm X
+T54	InDatabase 398 407	Malcolm X
+T55	InDatabase 398 407	Malcolm X
+T56	InDatabase 611 626	Elijah Muhammad
+T57	InDatabase 618 626	Muhammad
+T58	InDatabase 1094 1106	Mike Wallace
+T59	InDatabase 618 626	Muhammad
+T60	InDatabase 2817 2831	James Meredith
+T61	InDatabase 3191 3201	Carmichael
+T62	InDatabase 3191 3201	Carmichael

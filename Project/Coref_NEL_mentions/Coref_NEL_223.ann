@@ -1,10 +1,25 @@
-T1	Person1 0 12	 Isaac Newton
-T2	Person1 33 35	 He
-T3	Person1 23 25	 he
-T4	Person1 6 12	 Newton
-*	Same_Person T1 T2 T3 T4
-T5	Person2 118 125	 Jessica
-T6	Person2 145 148	 She
-*	Same_Person T5 T6
-T7	InDatabase 0 12 Isaac Newton
-T8	InDatabase 6 12 Newton
+T1	Person1 0 2	He
+T2	Person1 47 50	his
+T3	Person1 47 50	his
+T4	Person1 137 140	His
+T5	Person1 282 288	Heitsi
+T6	Person1 14 16	he
+T7	Person1 47 50	his
+T8	Person1 47 50	his
+T9	Person1 14 16	he
+T10	Person1 47 50	his
+T11	Person1 137 140	His
+T12	Person1 282 700	Heitsi slings the quiver in which he keeps his arrows over his shoulder. The quiver is made from tree bark. It is a good quiver, but he really wants one made of animal skin like the one his father carries. The arrows inside the quiver have wooden shafts and sharp tips made of metal. His younger cousins have arrows with tips made of hardwood. In the old days all the arrow tips were made of wood or bone, but Heitsi's
+T13	Person1 0 2	He
+T14	Person1 47 50	his
+T15	Person1 47 50	his
+T16	Person1 14 16	he
+*	Same_Person T1 T2 T3 T4 T5 T6 T7 T8 T9 T10 T11 T12 T13 T14 T15 T16
+T17	Person2 51 57	mother
+*	Same_Person T17
+T18	Person3 129 135	sister
+*	Same_Person T18
+T19	Person4 51 57	mother
+*	Same_Person T19
+T20	Person5 472 478	father
+*	Same_Person T20

@@ -1,10 +1,39 @@
-T1	Person1 0 12	 Isaac Newton
-T2	Person1 33 35	 He
-T3	Person1 23 25	 he
-T4	Person1 6 12	 Newton
-*	Same_Person T1 T2 T3 T4
-T5	Person2 118 125	 Jessica
-T6	Person2 145 148	 She
-*	Same_Person T5 T6
-T7	InDatabase 0 12 Isaac Newton
-T8	InDatabase 6 12 Newton
+T1	Person1 175 138	
+T2	Person1 175 184	Aristotle
+T3	Person1 175 399	Aristotle (384 BC 322 BC) are among the most famous of the Greek philosophers. Plato was a student of Socrates, and Aristotle was a student of Plato. These three were probably the greatest thinkers of their time. Aristotle's
+T4	Person1 175 399	Aristotle (384 BC 322 BC) are among the most famous of the Greek philosophers. Plato was a student of Socrates, and Aristotle was a student of Plato. These three were probably the greatest thinkers of their time. Aristotle's
+T5	Person1 175 184	Aristotle
+T6	Person1 49 51	he
+T7	Person1 325 399	These three were probably the greatest thinkers of their time. Aristotle's
+T8	Person1 175 399	Aristotle (384 BC 322 BC) are among the most famous of the Greek philosophers. Plato was a student of Socrates, and Aristotle was a student of Plato. These three were probably the greatest thinkers of their time. Aristotle's
+T9	Person1 175 399	Aristotle (384 BC 322 BC) are among the most famous of the Greek philosophers. Plato was a student of Socrates, and Aristotle was a student of Plato. These three were probably the greatest thinkers of their time. Aristotle's
+T10	Person1 175 399	Aristotle (384 BC 322 BC) are among the most famous of the Greek philosophers. Plato was a student of Socrates, and Aristotle was a student of Plato. These three were probably the greatest thinkers of their time. Aristotle's
+T11	Person1 990 993	him
+T12	Person1 175 184	Aristotle
+T13	Person1 49 51	he
+T14	Person1 49 51	he
+T15	Person1 175 184	Aristotle
+T16	Person1 49 51	he
+T17	Person1 796 799	his
+T18	Person1 49 51	he
+T19	Person1 49 51	he
+T20	Person1 175 399	Aristotle (384 BC 322 BC) are among the most famous of the Greek philosophers. Plato was a student of Socrates, and Aristotle was a student of Plato. These three were probably the greatest thinkers of their time. Aristotle's
+*	Same_Person T1 T2 T3 T4 T5 T6 T7 T8 T9 T10 T11 T12 T13 T14 T15 T16 T17 T18 T19 T20
+T21	Person2 528 531	man
+*	Same_Person T21
+T22	Person3 28 31	men
+*	Same_Person T22
+T23	Person4 962 967	women
+*	Same_Person T23
+T24	Person5 28 31	men
+*	Same_Person T24
+T25	Person6 962 967	women
+*	Same_Person T25
+T26	Person7 28 31	men
+*	Same_Person T26
+T27	Person8 962 967	women
+*	Same_Person T27
+T28	InDatabase 175 184	Aristotle
+T29	InDatabase 175 184	Aristotle
+T30	InDatabase 175 184	Aristotle
+T31	InDatabase 175 184	Aristotle

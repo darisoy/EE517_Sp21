@@ -1,10 +1,7 @@
-T1	Person1 0 12	 Isaac Newton
-T2	Person1 33 35	 He
-T3	Person1 23 25	 he
-T4	Person1 6 12	 Newton
-*	Same_Person T1 T2 T3 T4
-T5	Person2 118 125	 Jessica
-T6	Person2 145 148	 She
-*	Same_Person T5 T6
-T7	InDatabase 0 12 Isaac Newton
-T8	InDatabase 6 12 Newton
+T1	Person1 242 261	Nicolaus Copernicus
+T2	Person1 289 291	He
+*	Same_Person T1 T2
+T3	Person2 171 178	The Sun
+T4	Person2 3 178	the left is a line art drawing of the Ptolemaic system with Earth at the center. On the right is a drawing of the Ptolemaic system from 1568 by a Portuguese astronomer The Sun
+*	Same_Person T3 T4
+T5	InDatabase 242 261	Nicolaus Copernicus

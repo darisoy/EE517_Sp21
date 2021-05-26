@@ -1,10 +1,46 @@
-T1	Person1 0 12	 Isaac Newton
-T2	Person1 33 35	 He
-T3	Person1 23 25	 he
-T4	Person1 6 12	 Newton
-*	Same_Person T1 T2 T3 T4
-T5	Person2 118 125	 Jessica
-T6	Person2 145 148	 She
-*	Same_Person T5 T6
-T7	InDatabase 0 12 Isaac Newton
-T8	InDatabase 6 12 Newton
+T1	Person1 321 341	Phyllis Schlafly Roe
+*	Same_Person T1
+T2	Person2 1485 1498	Betty Friedan
+T3	Person2 1542 1545	her
+T4	Person2 1491 1498	Friedan
+*	Same_Person T2 T3 T4
+T5	Person3 115 120	women
+*	Same_Person T5
+T6	Person4 115 120	women
+*	Same_Person T6
+T7	Person5 280 285	Women
+*	Same_Person T7
+T8	Person6 280 285	Women
+*	Same_Person T8
+T9	Person7 115 120	women
+*	Same_Person T9
+T10	Person8 280 285	Women
+T11	Person8 690 695	their
+T12	Person8 690 695	their
+T13	Person8 690 695	their
+*	Same_Person T10 T11 T12 T13
+T14	Person9 773 780	husband
+*	Same_Person T14
+T15	Person10 115 120	women
+*	Same_Person T15
+T16	Person11 773 780	husband
+*	Same_Person T16
+T17	Person12 115 120	women
+*	Same_Person T17
+T18	Person13 115 120	women
+*	Same_Person T18
+T19	Person14 115 120	women
+*	Same_Person T19
+T20	Person15 115 120	women
+*	Same_Person T20
+T21	Person16 115 120	women
+*	Same_Person T21
+T22	Person17 115 120	women
+*	Same_Person T22
+T23	Person18 115 120	women
+T24	Person18 690 695	their
+*	Same_Person T23 T24
+T25	Person19 115 120	women
+*	Same_Person T25
+T26	Person20 115 120	women
+*	Same_Person T26

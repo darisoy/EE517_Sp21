@@ -1,10 +1,13 @@
-T1	Person1 0 12	 Isaac Newton
-T2	Person1 33 35	 He
-T3	Person1 23 25	 he
-T4	Person1 6 12	 Newton
-*	Same_Person T1 T2 T3 T4
-T5	Person2 118 125	 Jessica
-T6	Person2 145 148	 She
-*	Same_Person T5 T6
-T7	InDatabase 0 12 Isaac Newton
-T8	InDatabase 6 12 Newton
+T1	Person1 214 220	Kelvin
+*	Same_Person T1
+T2	Person2 214 220	Kelvin
+*	Same_Person T2
+T3	Person3 128 130	He
+*	Same_Person T3
+T4	Person4 128 130	He
+*	Same_Person T4
+T5	Person5 41 333	A and B, have a volume of 0,15 m3 and 0,20 m3 respectively. Cylinder A contains 35 mol He gas at pressure p and cylinder B contains 40 mol He gas at 5 atm. The ratio of the Kelvin temperatures A is 1,80 Calculate the pressure of the gas (in kPa) in cylinder A. (IEB 2002 Paper 2) 9. A learner
+T6	Person5 515 518	she
+T7	Person5 210 333	the Kelvin temperatures A is 1,80 Calculate the pressure of the gas (in kPa) in cylinder A. (IEB 2002 Paper 2) 9. A learner
+T8	Person5 843 846	her
+*	Same_Person T5 T6 T7 T8

@@ -1,10 +1,13 @@
-T1	Person1 0 12	 Isaac Newton
-T2	Person1 33 35	 He
-T3	Person1 23 25	 he
-T4	Person1 6 12	 Newton
-*	Same_Person T1 T2 T3 T4
-T5	Person2 118 125	 Jessica
-T6	Person2 145 148	 She
-*	Same_Person T5 T6
-T7	InDatabase 0 12 Isaac Newton
-T8	InDatabase 6 12 Newton
+T1	Person1 0 12	Nicola Tesla
+*	Same_Person T1
+T2	Person2 207 223	Alessandro Volta
+*	Same_Person T2
+T3	Person3 0 25	Nicola Tesla: (1856-1943)
+T4	Person3 26 28	He
+*	Same_Person T3 T4
+T5	Person4 207 25	
+T6	Person4 26 28	He
+T7	Person4 26 28	He
+*	Same_Person T5 T6 T7
+T8	InDatabase 0 12	Nicola Tesla
+T9	InDatabase 207 223	Alessandro Volta
