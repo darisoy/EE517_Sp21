@@ -1,9 +1,9 @@
-T1	Person1 19 24	 women
+T1	Person1 19 24	women
 *	Same_Person T1
-T2	Person2 19 24	 women
-T3	Person2 58 63	 their
-T4	Person2 58 63	 their
+T2	Person2 19 24	women
+T3	Person2 58 63	their
+T4	Person2 58 63	their
 *	Same_Person T2 T3 T4
-T5	Person3 19 24	 women
-T6	Person3 58 63	 their
+T5	Person3 19 24	women
+T6	Person3 58 63	their
 *	Same_Person T5 T6

@@ -1,10 +1,21 @@
-T1	Person1 0 12	 Isaac Newton
-T2	Person1 33 35	 He
-T3	Person1 23 25	 he
-T4	Person1 6 12	 Newton
-*	Same_Person T1 T2 T3 T4
-T5	Person2 118 125	 Jessica
-T6	Person2 145 148	 She
-*	Same_Person T5 T6
-T7	InDatabase 0 12 Isaac Newton
-T8	InDatabase 6 12 Newton
+T1	Person1 0 15	John F. Kennedy
+T2	Person1 198 15	
+T3	Person1 8 898	Kennedy visits Brandenburg Gate on June 26, 1963. Source:  While the Cold War remained heated in Europe, events flared up again in Cuba. After the failure of the Bay of Pigs Invasion, Cuban President Fidel Castro had struck a deal with the Soviets to place nuclear missiles on the island in case of another invasion and during the summer of 1962, Soviet weapons (including nuclear missiles) flowed into Cuba. On October 14,1962, American intelligence discovered the activity which sparked the Cuban Missile Crisis. Aerial photographs showed that intermediate-range and mediate-range ballistic nuclear missiles (some of which were in ready to launch mode) had been installed throughout the island. On October 22nd, President Kennedy delivered a message to the American people. You can see it in Interactive 10 For the next six days the world watched with fear as the Interactive 10 Kennedy's
+T4	Person1 73 1261	the Cold War remained heated in Europe, events flared up again in Cuba. After the failure of the Bay of Pigs Invasion, Cuban President Fidel Castro had struck a deal with the Soviets to place nuclear missiles on the island in case of another invasion and during the summer of 1962, Soviet weapons (including nuclear missiles) flowed into Cuba. On October 14,1962, American intelligence discovered the activity which sparked the Cuban Missile Crisis. Aerial photographs showed that intermediate-range and mediate-range ballistic nuclear missiles (some of which were in ready to launch mode) had been installed throughout the island. On October 22nd, President Kennedy delivered a message to the American people. You can see it in Interactive 10 For the next six days the world watched with fear as the Interactive 10 Kennedy's Address on Cuba Khrushchev were criticised harshly for their actions during the crisis. Castro closed Cuba's doors by 1973, sharply reducing exit permits from Cuba, separating generations of Cubans from their Cuban-American relatives. After the close call with potential nuclear warfare and the realization of the gravity of split-second decisions, the president
+T5	Person1 1282 1285	his
+T6	Person1 74 76	he
+T7	Person1 8 15	Kennedy
+T8	Person1 198 15	
+T9	Person1 8 15	Kennedy
+T10	Person1 8 15	Kennedy
+*	Same_Person T1 T2 T3 T4 T5 T6 T7 T8 T9 T10
+T11	Person2 208 220	Fidel Castro
+*	Same_Person T11
+T12	Person3 8 15	Kennedy
+*	Same_Person T12
+T13	Person4 8 15	Kennedy
+*	Same_Person T13
+T14	InDatabase 8 15	Kennedy
+T15	InDatabase 8 15	Kennedy
+T16	InDatabase 8 15	Kennedy
+T17	InDatabase 208 220	Fidel Castro

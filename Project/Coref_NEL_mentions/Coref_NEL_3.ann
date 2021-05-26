@@ -1,28 +1,27 @@
-T1	Person1 37 47	 Mark Pagel
+T1	Person1 37 47	Mark Pagel
 *	Same_Person T1
-T2	Person2 132 149	 Stephen Jay Gould
+T2	Person2 132 149	Stephen Jay Gould
 *	Same_Person T2
-T3	Person3 287 298	 David Smith
-T4	Person3 567 577	 Dave Smith
+T3	Person3 287 298	David Smith
+T4	Person3 567 298	
 *	Same_Person T3 T4
-T5	Person4 1206 1220	 David Lindberg
+T5	Person4 287 1220	David Smith, The Paleontology Portal. University of California Museum of Paleontology, Paleontological Society, Society of Vertebrate Paleontology, and US Geological Survey, 2003. Available on the Web at:  Continental Drift Animation. EduMedia-sciences, 2002-2007 on the Web at:  Dave Smith, Life Has a History Level 2. University of California Museum of Paleontology, 7/18/06. Available on the Web at:  tour1 David Ulansey, The Current Mass Extinction. David Ulansey, last updated 3 July 2007. Available on the Web at:  Lexi Krock, The Missing Link: A Brief History of Life. Nova Online, last updated February 2002. Available on the Web at:  Richard Cowen, History of Life, 4th edition Updates, References and weblinks. UC Davis Geology Department, 3 March 2006. Available on the Web at:  Roger Perkins, The Virtual Fossil Museum: Fossils across Geologic Time and Evolution. Available on the Web at:  Roy Caldwell and David Lindberg
 *	Same_Person T5
-T6	Person5 257 272	 Colleen Whitney
+T6	Person5 257 272	Colleen Whitney
 *	Same_Person T6
-T7	Person6 274 285	 Kate Barton
+T7	Person6 274 285	Kate Barton
 *	Same_Person T7
-T8	Person7 697 710	 David Ulansey
-T9	Person7 697 710	 David Ulansey
+T8	Person7 287 710	David Smith, The Paleontology Portal. University of California Museum of Paleontology, Paleontological Society, Society of Vertebrate Paleontology, and US Geological Survey, 2003. Available on the Web at:  Continental Drift Animation. EduMedia-sciences, 2002-2007 on the Web at:  Dave Smith, Life Has a History Level 2. University of California Museum of Paleontology, 7/18/06. Available on the Web at:  tour1 David Ulansey
+T9	Person7 287 710	David Smith, The Paleontology Portal. University of California Museum of Paleontology, Paleontological Society, Society of Vertebrate Paleontology, and US Geological Survey, 2003. Available on the Web at:  Continental Drift Animation. EduMedia-sciences, 2002-2007 on the Web at:  Dave Smith, Life Has a History Level 2. University of California Museum of Paleontology, 7/18/06. Available on the Web at:  tour1 David Ulansey
 *	Same_Person T8 T9
-T10	Person8 808 818	 Lexi Krock
+T10	Person8 808 818	Lexi Krock
 *	Same_Person T10
-T11	Person9 930 943	 Richard Cowen
+T11	Person9 930 943	Richard Cowen
 *	Same_Person T11
-T12	Person10 1077 1090	 Roger Perkins
+T12	Person10 1077 1090	Roger Perkins
 *	Same_Person T12
-T13	Person11 1189 1201	 Roy Caldwell
+T13	Person11 1189 1201	Roy Caldwell
 *	Same_Person T13
-T14	InDatabase 37 47 Mark Pagel
-T15	InDatabase 132 149 Stephen Jay Gould
-T16	InDatabase 287 298 David Smith
-T17	InDatabase 1206 1220 David Lindberg
+T14	InDatabase 37 47	Mark Pagel
+T15	InDatabase 132 149	Stephen Jay Gould
+T16	InDatabase 287 298	David Smith

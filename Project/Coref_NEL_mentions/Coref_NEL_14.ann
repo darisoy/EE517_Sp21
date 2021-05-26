@@ -1,7 +1,6 @@
-T1	Person1 189 206	 Charles Townshend
+T1	Person1 189 13	
 *	Same_Person T1
-T2	Person2 170 176	 George
+T2	Person2 170 176	George
 *	Same_Person T2
-T3	Person3 140 143	 man
+T3	Person3 140 143	man
 *	Same_Person T3
-T4	InDatabase 189 206 Charles Townshend

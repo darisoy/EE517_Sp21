@@ -1,8 +1,8 @@
-T1	Person1 290 293	 men
+T1	Person1 290 293	men
 *	Same_Person T1
-T2	Person2 407 412	 women
+T2	Person2 407 412	women
 *	Same_Person T2
-T3	Person3 290 293	 men
+T3	Person3 290 293	men
 *	Same_Person T3
-T4	Person4 407 412	 women
+T4	Person4 407 412	women
 *	Same_Person T4
