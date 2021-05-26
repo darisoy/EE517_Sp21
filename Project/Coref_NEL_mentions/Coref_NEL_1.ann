@@ -1,10 +1,2 @@
-T1	Person1 0 12	 Isaac Newton
-T2	Person1 33 35	 He
-T3	Person1 23 25	 he
-T4	Person1 6 12	 Newton
-*	Same_Person T1 T2 T3 T4
-T5	Person2 118 125	 Jessica
-T6	Person2 145 148	 She
-*	Same_Person T5 T6
-T7	InDatabase 0 12 Isaac Newton
-T8	InDatabase 6 12 Newton
+T1	Person1 10 12	 MS
+*	Same_Person T1
