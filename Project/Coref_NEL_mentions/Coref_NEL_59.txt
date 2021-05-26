@@ -1,0 +1,1 @@
+Worked example 18: Car chase [Excerpt from NSC 2011 Paper 1] QUESTION A patrol car is moving on a straight horizontal road at a velocity of 10 m s1 east. At the same time a thief in a car ahead of him is driving at a velocity of 40 m s1 in the same direction.

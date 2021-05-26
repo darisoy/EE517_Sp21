@@ -1,0 +1,1 @@
+Calculate the gradient of the line: gradient = --v 0 19,6 gradient = 2 0 gradient = 19,6 gradient = 9,8 Therefore the acceleration = 9,8 ms 2 downwards.

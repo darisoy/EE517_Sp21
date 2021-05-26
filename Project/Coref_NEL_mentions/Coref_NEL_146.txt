@@ -1,0 +1,1 @@
+Worked example 9: Sliding footballer [credit: OpenStax College Physics] QUESTION Consider the situation shown where a football player slides to a stop on level ground. Using energy considerations, calculate the distance the 65,0 kg football player slides, given that his initial speed is 6,00 m s1 and the force of friction against him is a constant 450 N.

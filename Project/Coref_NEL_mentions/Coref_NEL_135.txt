@@ -1,0 +1,1 @@
+FACT Historically, the horsepower (symbol hp) was the unit used to describe the power delivered by a machine. One horsepower is equivalent to approximately 750 W. The horsepower was derived by James Watt to give an indication of the power of his steam engine in terms of the power of a horse, which was what most people used to for example, turn a mill wheel.
