@@ -1,17 +1,7 @@
 T1	Person1 127 131	girl
-*	Same_Person T1
-T2	Person2 127 131	girl
-*	Same_Person T2
-T3	Person3 26 131	the question to determine what information is provided the netball net is 2,5 m above the ground the girl
-T4	Person3 26 188	the question to determine what information is provided the netball net is 2,5 m above the ground the girl has a height of 1,7 m the ball is 0,5 m above the girl's
-T5	Person3 199 202	she
-T6	Person3 26 188	the question to determine what information is provided the netball net is 2,5 m above the ground the girl has a height of 1,7 m the ball is 0,5 m above the girl's
-T7	Person3 199 202	she
-T8	Person3 26 131	the question to determine what information is provided the netball net is 2,5 m above the ground the girl
-*	Same_Person T3 T4 T5 T6 T7 T8
-T9	Person4 127 131	girl
-*	Same_Person T9
-T10	Person5 127 131	girl
-*	Same_Person T10
-T11	Person6 797 800	boy
-*	Same_Person T11
+T2	Person1 182 186	girl
+T3	Person1 430 434	girl
+T4	Person1 445 448	she
+T5	Person1 635 639	girl
+T6	Person2 797 800	boy
+*	Same_Person T2 T4 T5 T3 T1

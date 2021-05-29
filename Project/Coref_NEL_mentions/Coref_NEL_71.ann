@@ -1,46 +1,31 @@
-T1	Person1 321 341	Phyllis Schlafly Roe
-*	Same_Person T1
-T2	Person2 1485 1498	Betty Friedan
-T3	Person2 1542 1545	her
-T4	Person2 1491 1498	Friedan
-*	Same_Person T2 T3 T4
-T5	Person3 115 120	women
-*	Same_Person T5
-T6	Person4 115 120	women
-*	Same_Person T6
-T7	Person5 280 285	Women
-*	Same_Person T7
-T8	Person6 280 285	Women
-*	Same_Person T8
-T9	Person7 115 120	women
-*	Same_Person T9
-T10	Person8 280 285	Women
-T11	Person8 690 695	their
-T12	Person8 690 695	their
-T13	Person8 690 695	their
-*	Same_Person T10 T11 T12 T13
-T14	Person9 773 780	husband
-*	Same_Person T14
-T15	Person10 115 120	women
-*	Same_Person T15
-T16	Person11 773 780	husband
-*	Same_Person T16
-T17	Person12 115 120	women
-*	Same_Person T17
-T18	Person13 115 120	women
-*	Same_Person T18
-T19	Person14 115 120	women
-*	Same_Person T19
-T20	Person15 115 120	women
-*	Same_Person T20
-T21	Person16 115 120	women
-*	Same_Person T21
-T22	Person17 115 120	women
-*	Same_Person T22
-T23	Person18 115 120	women
-T24	Person18 690 695	their
-*	Same_Person T23 T24
-T25	Person19 115 120	women
-*	Same_Person T25
-T26	Person20 115 120	women
-*	Same_Person T26
+T1	Person2 321 341	Phyllis Schlafly Roe
+T2	Person1 115 120	women
+T3	Person1 152 157	women
+T4	InDatabase 321 341	Phyllis Schlafly Roe
+T5	InDatabase 345 359	Wade Stonewall
+T6	Person3 345 359	Wade Stonewall
+T7	Person1 601 606	women
+T8	Person1 658 663	Women
+T9	Person4 773 780	husband
+T10	Person1 812 817	women
+T11	Person4 877 884	husband
+T12	Person1 978 983	women
+T13	Person1 1060 1064	They
+T14	Person4 1229 1233	male
+T15	Person5 1264 1269	women
+T16	Person6 1296 1301	women
+T17	Person5 1347 1352	women
+T18	Person6 1447 1452	women
+T19	Person7 1485 1498	Betty Friedan
+T20	InDatabase 1485 1498	Betty Friedan
+T21	Person7 1542 1545	her
+T22	Person7 1594 1601	Friedan
+T23	Person1 1613 1618	women
+T24	Person1 1643 1648	their
+T25	Person1 1746 1751	women
+T26	Person8 1802 1807	women
+*	Same_Person T7 T8 T10 T12 T2 T3 T13 T23 T25 T24
+*	Same_Person T9 T11 T14
+*	Same_Person T15 T17
+*	Same_Person T16 T18
+*	Same_Person T19 T21 T22

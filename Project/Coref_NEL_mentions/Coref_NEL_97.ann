@@ -1,14 +1,16 @@
 T1	Person1 30 51	Jean-Baptiste Lamarck
-T2	Person1 7 9	he
-T3	Person1 44 51	Lamarck
-T4	Person1 44 51	Lamarck
-T5	Person1 44 51	Lamarck
-*	Same_Person T1 T2 T3 T4 T5
-T6	Person2 131 137	Darwin
-*	Same_Person T6
-T7	Person3 131 139	Darwin's
-T8	Person3 131 137	Darwin
-T9	Person3 7 9	he
-*	Same_Person T7 T8 T9
+T2	InDatabase 30 51	Jean-Baptiste Lamarck
+T3	Person1 97 99	he
+T4	Person2 131 137	Darwin
+T5	Person2 222 228	Darwin
+*	Same_Person T4 T5 T7
+T6	Person1 241 248	Lamarck
+T7	Person2 272 274	he
+T8	Person1 289 296	Lamarck
+T9	Person1 322 329	Lamarck
+*	Same_Person T9 T8 T1 T3 T6
 T10	InDatabase 131 137	Darwin
-T11	InDatabase 131 137	Darwin
+T11	InDatabase 222 228	Darwin
+T12	InDatabase 241 248	Lamarck
+T13	InDatabase 289 296	Lamarck
+T14	InDatabase 322 329	Lamarck

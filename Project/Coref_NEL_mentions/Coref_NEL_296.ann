@@ -1,5 +1,4 @@
 T1	Person1 17 32	Stephen Douglas
-*	Same_Person T1
-T2	Person2 25 32	Douglas
-*	Same_Person T2
+*	Same_Person T1 T2
 T3	InDatabase 17 32	Stephen Douglas
+T2	Person1 211 218	Douglas

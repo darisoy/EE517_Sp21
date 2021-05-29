@@ -1,6 +1,6 @@
 T1	Person1 65 73	LaShawna
 T2	Person1 78 81	her
-T3	Person1 65 73	LaShawna
 T4	Person1 231 234	she
-T5	Person1 65 315	LaShawna and her family went to Yellowstone National Park. They saw a spring called Green Dragon Spring. Steam was rising off the water. When LaShawna saw the steam, she said that the water must contain a lot of minerals. Do you agree with LaShawna's
-*	Same_Person T1 T2 T3 T4 T5
+*	Same_Person T1 T2 T4 T3 T5
+T3	Person1 207 215	LaShawna
+T5	Person1 305 313	LaShawna

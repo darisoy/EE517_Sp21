@@ -1,15 +1,11 @@
 T1	Person1 6 12	Darwin
-T2	Person1 6 27	Darwin Since Darwin's
-T3	Person1 6 27	Darwin Since Darwin's
-T4	Person1 6 12	Darwin
-T5	Person1 6 12	Darwin
-*	Same_Person T1 T2 T3 T4 T5
-T6	Person2 6 12	Darwin
-*	Same_Person T6
-T7	Person3 6 12	Darwin
-*	Same_Person T7
-T8	InDatabase 6 12	Darwin
-T9	InDatabase 6 12	Darwin
-T10	InDatabase 6 12	Darwin
-T11	InDatabase 6 12	Darwin
-T12	InDatabase 6 12	Darwin
+T2	InDatabase 6 12	Darwin
+T3	Person1 19 25	Darwin
+T4	InDatabase 19 25	Darwin
+T5	Person1 196 202	Darwin
+T6	InDatabase 196 202	Darwin
+T7	InDatabase 279 285	Darwin
+T8	Person1 279 285	Darwin
+T9	Person1 459 465	Darwin
+T10	InDatabase 459 465	Darwin
+*	Same_Person T8 T9 T5 T1 T3

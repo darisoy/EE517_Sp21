@@ -1,4 +1,4 @@
-T1	Person1 3 84	amos are also used in mining helmets and wind-up torches and radios. If a miner's
 T2	Person1 94 97	his
-T3	Person1 32 34	he
+T1	Person1 77 82	miner
+T3	Person1 115 117	he
 *	Same_Person T1 T2 T3

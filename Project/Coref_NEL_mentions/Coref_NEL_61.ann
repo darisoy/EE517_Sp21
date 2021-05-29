@@ -1,19 +1,15 @@
-T1	Person1 198 209	His uncle's
 T2	Person1 292 297	Uncle
-T3	Person1 12 15	his
-*	Same_Person T1 T2 T3
 T4	Person2 0 2	He
 T5	Person2 12 15	his
-T6	Person2 0 2	He
 T7	Person2 61 68	himself
-T8	Person2 75 77	he
 T9	Person2 198 201	His
-T10	Person2 544 550	Heitsi
-T11	Person2 75 77	he
-*	Same_Person T4 T5 T6 T7 T8 T9 T10 T11
-T12	Person3 202 207	uncle
-*	Same_Person T12
-T13	Person4 44 47	men
-*	Same_Person T13
+T10	Person4 544 550	Heitsi
+*	Same_Person T4 T5 T7 T3 T9
+T12	Person1 202 207	uncle
 T14	Person5 464 469	women
-*	Same_Person T14
+T3	Person2 50 52	He
+T1	Person1 326 329	his
+T6	Person3 423 426	men
+T8	Person4 594 596	he
+*	Same_Person T10 T8
+*	Same_Person T2 T1 T12

@@ -1,6 +1,10 @@
-T1	Person1 0 9	Worcester
 T2	Person1 369 9	
-*	Same_Person T1 T2
-T3	Person2 729 742	John Marshall
+T3	Person4 729 742	John Marshall
 *	Same_Person T3
 T4	InDatabase 729 742	John Marshall
+T1	Person1 62 72	Washington
+T5	InDatabase 62 72	Washington
+T6	Person2 77 86	Jefferson
+T7	InDatabase 77 86	Jefferson
+T8	Person3 369 385	Samuel Worcester
+T9	InDatabase 369 385	Samuel Worcester

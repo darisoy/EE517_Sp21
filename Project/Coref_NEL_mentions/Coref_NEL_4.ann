@@ -1,31 +1,32 @@
 T1	Person1 9 13	Taft
-T2	Person1 74 76	he
+T2	Person1 37 40	man
 T3	Person1 74 76	he
-T4	Person1 155 158	his
-T5	Person1 302 304	He
-T6	Person1 155 158	his
-T7	Person1 302 304	He
-T8	Person1 155 158	his
-T9	Person1 769 772	him
-T10	Person1 9 13	Taft
-T11	Person1 1265 13	
-T12	Person1 302 304	He
-T13	Person1 74 76	he
-T14	Person1 155 158	his
-*	Same_Person T1 T2 T3 T4 T5 T6 T7 T8 T9 T10 T11 T12 T13 T14
-T15	Person2 133 142	Roosevelt
-T16	Person2 133 265	Roosevelt possessed. This was evidenced by the sheer number of the 90 trusts he busted in his four year term compared to Roosevelt's
-T17	Person2 133 265	Roosevelt possessed. This was evidenced by the sheer number of the 90 trusts he busted in his four year term compared to Roosevelt's
-T18	Person2 133 265	Roosevelt possessed. This was evidenced by the sheer number of the 90 trusts he busted in his four year term compared to Roosevelt's
-T19	Person2 133 142	Roosevelt
-T20	Person2 155 158	his
-T21	Person2 133 142	Roosevelt
-*	Same_Person T15 T16 T17 T18 T19 T20 T21
-T22	Person3 133 142	Roosevelt
-*	Same_Person T22
-T23	Person4 133 142	Roosevelt
-*	Same_Person T23
-T24	Person5 37 40	man
-*	Same_Person T24
-T25	InDatabase 9 13	Taft
-T26	InDatabase 9 13	Taft
+T4	Person2 133 142	Roosevelt
+T5	InDatabase 133 142	Roosevelt
+T6	InDatabase 9 13	Taft
+T7	Person1 210 212	he
+T8	Person2 254 263	Roosevelt
+T9	InDatabase 254 263	Roosevelt
+T10	Person1 302 304	He
+T11	Person1 321 324	his
+T12	Person2 371 380	Roosevelt
+T13	InDatabase 371 380	Roosevelt
+T14	Person2 515 524	Roosevelt
+T15	InDatabase 515 524	Roosevelt
+T16	Person2 644 653	Roosevelt
+T17	InDatabase 644 653	Roosevelt
+T18	Person1 538 540	He
+T19	Person1 628 631	his
+T20	Person2 710 713	his
+T21	Person1 769 772	him
+T22	Person1 804 808	Taft
+T23	InDatabase 804 808	Taft
+T24	Person2 1235 1244	Roosevelt
+T25	InDatabase 1235 1244	Roosevelt
+T26	Person1 1275 1279	Taft
+T27	InDatabase 1275 1279	Taft
+T28	Person1 1312 1314	He
+T29	Person1 1344 1346	he
+T30	Person1 1428 1431	his
+*	Same_Person T4 T8 T12 T14 T16 T20 T24
+*	Same_Person T28 T30 T29 T1 T2 T3 T7 T11 T10 T18 T19 T21 T22 T26

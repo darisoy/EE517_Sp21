@@ -1,6 +1,7 @@
-T1	Person1 22 31	Charles's
 T2	Person1 22 29	Charles
-T3	Person1 72 75	his
-*	Same_Person T1 T2 T3
-T4	Person2 190 202	Joseph Louis
-*	Same_Person T4
+T1	Person2 53 63	Gay-Lussac
+T3	Person1 87 94	Charles
+*	Same_Person T2 T3 T5
+T5	Person1 111 114	his
+T4	Person3 190 213	Joseph Louis Gay-Lussac
+T6	InDatabase 190 213	Joseph Louis Gay-Lussac

@@ -1,18 +1,7 @@
-T1	Person1 352 369	Rosie the Riveter
-T2	Person1 396 369	
-T3	Person1 396 270	
-*	Same_Person T1 T2 T3
-T4	Person2 396 419	Alice the Riveter Click
-*	Same_Person T4
-T5	Person3 396 401	Alice
-*	Same_Person T5
-T6	Person4 502 514	Heather Wolf
-*	Same_Person T6
-T7	Person5 100 103	men
-*	Same_Person T7
-T8	Person6 138 143	women
-*	Same_Person T8
-T9	Person7 138 143	women
-*	Same_Person T9
-T10	Person8 208 213	Women
-*	Same_Person T10
+T1	InDatabase 352 369	Rosie the Riveter
+T2	Person2 100 103	men
+T3	Person3 138 143	women
+T4	Person3 160 165	women
+T5	Person3 208 213	Women
+T6	Person1 352 369	Rosie the Riveter
+*	Same_Person T5 T4 T3

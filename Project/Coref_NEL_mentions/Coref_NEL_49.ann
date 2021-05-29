@@ -1,13 +1,9 @@
 T1	Person1 0 12	Nicola Tesla
-*	Same_Person T1
+*	Same_Person T1 T3
 T2	Person2 207 223	Alessandro Volta
-*	Same_Person T2
-T3	Person3 0 25	Nicola Tesla: (1856-1943)
-T4	Person3 26 28	He
-*	Same_Person T3 T4
-T5	Person4 207 25	
-T6	Person4 26 28	He
-T7	Person4 26 28	He
-*	Same_Person T5 T6 T7
+*	Same_Person T2 T4 T5
 T8	InDatabase 0 12	Nicola Tesla
 T9	InDatabase 207 223	Alessandro Volta
+T3	Person1 26 28	He
+T4	Person2 237 239	He
+T5	Person2 394 396	He

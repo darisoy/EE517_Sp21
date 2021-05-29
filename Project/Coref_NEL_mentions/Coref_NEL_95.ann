@@ -1,4 +1,4 @@
 T1	Person1 16 20	Mary
-T2	Person1 54 57	her
 T3	Person1 54 57	her
-*	Same_Person T1 T2 T3
+*	Same_Person T1 T3 T2
+T2	Person1 80 83	her

@@ -1,6 +1,6 @@
 T1	Person1 61 64	man
-*	Same_Person T1
-T2	Person2 40 84	as made in 1800 by a man called Humphry Davy
-T3	Person2 86 88	He
-T4	Person2 15 17	he
-*	Same_Person T2 T3 T4
+T3	Person1 86 88	He
+T2	Person1 72 84	Humphry Davy
+T4	InDatabase 72 84	Humphry Davy
+T5	Person1 128 130	he
+*	Same_Person T3 T2 T1 T5

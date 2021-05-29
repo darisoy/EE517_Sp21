@@ -1,4 +1,8 @@
 T1	Person1 1167 1186	William Marcy Tweed
-T2	Person1 1188 1186	
-T3	Person1 214 216	he
+T2	Person1 1193 1198	Tweed
+T3	Person1 1246 1248	he
+T4	Person2 1515 1526	Businessmen
+T5	Person2 1570 1575	their
+T6	Person2 1649 1653	them
 *	Same_Person T1 T2 T3
+*	Same_Person T4 T5 T6

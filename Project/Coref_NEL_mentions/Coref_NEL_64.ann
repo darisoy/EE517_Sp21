@@ -1,5 +1,5 @@
 T1	Person1 10 12	he
-T2	Person1 10 12	he
-T3	Person1 91 93	He
 T4	Person1 91 93	He
-*	Same_Person T1 T2 T3 T4
+*	Same_Person T1 T4 T2 T3
+T2	Person1 64 66	he
+T3	Person1 143 145	He

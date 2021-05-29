@@ -1,8 +1,6 @@
 T1	Person1 737 742	women
-*	Same_Person T1
-T2	Person2 737 742	women
-*	Same_Person T2
-T3	Person3 737 742	women
-*	Same_Person T3
-T4	Person4 737 742	women
-*	Same_Person T4
+T2	Person2 685 689	male
+T3	Person1 797 802	women
+T4	Person1 938 943	women
+T5	Person1 981 986	women
+*	Same_Person T3 T4 T5 T1

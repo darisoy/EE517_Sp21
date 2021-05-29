@@ -3,3 +3,4 @@ T2	Person1 718 721	his
 *	Same_Person T1 T2
 T3	Person2 739 743	wife
 *	Same_Person T3
+T4	InDatabase 697 708	Henry Sager

@@ -1,5 +1,6 @@
 T1	Person1 79 91	Edwin Hubble
 T2	Person1 101 104	his
-T3	Person1 17 19	he
-*	Same_Person T1 T2 T3
 T4	InDatabase 79 91	Edwin Hubble
+T3	Person1 213 215	he
+T5	Person1 260 266	Hubble
+*	Same_Person T5 T3 T1 T2

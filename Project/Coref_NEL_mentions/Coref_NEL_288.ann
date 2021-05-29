@@ -1,13 +1,14 @@
 T1	Person1 84 101	George Washington
-T2	Person1 91 101	Washington
-T3	Person1 91 101	Washington
-T4	Person1 10 101	Presidential election under the constitution was held on January 7, 1789. George Washington
-*	Same_Person T1 T2 T3 T4
 T5	Person2 128 138	John Adams
 *	Same_Person T5
-T6	Person3 128 549	John Adams as Vice President. None of the Presidential electors voted against Washington. The government met for the first time in New York in March 1789, and Washington was inaugurated (sworn into office) on April 30, 1789. First Acts of the New Government 1. The Congress passed the Judiciary Act of 1789. This law said the Supreme Court would have six judges. (We now have nine  President Washington appointed John Jay
-*	Same_Person T6
 T7	InDatabase 84 101	George Washington
-T8	InDatabase 91 101	Washington
-T9	InDatabase 91 101	Washington
 T10	InDatabase 128 138	John Adams
+T2	Person1 206 216	Washington
+T3	InDatabase 206 216	Washington
+T4	Person1 287 297	Washington
+T6	InDatabase 287 297	Washington
+T8	Person1 520 530	Washington
+T9	InDatabase 520 530	Washington
+T11	InDatabase 541 549	John Jay
+*	Same_Person T4 T8 T2 T1
+T12	Person3 541 549	John Jay

@@ -1,4 +1,4 @@
 T1	Person1 0 5	Mario
-T2	Person1 33 35	he
 T3	Person1 121 123	He
-*	Same_Person T1 T2 T3
+*	Same_Person T1 T3 T2
+T2	Person1 82 84	he

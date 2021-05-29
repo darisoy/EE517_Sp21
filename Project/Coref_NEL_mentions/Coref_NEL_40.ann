@@ -1,9 +1,9 @@
 T1	Person1 67 82	Amadeo Avogadro
 T2	Person1 194 197	His
-T3	Person1 283 286	his
-T4	Person1 283 286	his
-T5	Person1 74 375	Avogadro was that 'equal volumes of gases, at the same temperature and pressure, contain the same number of molecules'. His ideas were not accepted by the scientific community and it was only four years after his death, that his original hypothesis was accepted and that it became known as 'Avogadro's
 T6	Person1 283 286	his
-T7	Person1 74 375	Avogadro was that 'equal volumes of gases, at the same temperature and pressure, contain the same number of molecules'. His ideas were not accepted by the scientific community and it was only four years after his death, that his original hypothesis was accepted and that it became known as 'Avogadro's
-*	Same_Person T1 T2 T3 T4 T5 T6 T7
+*	Same_Person T1 T2 T6 T3 T5 T4 T7
 T8	InDatabase 67 82	Amadeo Avogadro
+T3	Person1 299 302	his
+T4	Person1 365 373	Avogadro
+T5	Person1 395 398	his
+T7	Person1 470 478	Avogadro

@@ -1,25 +1,9 @@
-T1	Person1 0 5	Uncle
-T2	Person1 13 14	I
-T3	Person1 13 14	I
-T4	Person1 0 5	Uncle
-T5	Person1 20 24	your
-T6	Person1 20 23	you
-T7	Person1 0 5	Uncle
-T8	Person1 13 14	I
-T9	Person1 13 14	I
-T10	Person1 13 14	I
-T11	Person1 13 14	I
-T12	Person1 226 228	me
-T13	Person1 0 5	Uncle
-*	Same_Person T1 T2 T3 T4 T5 T6 T7 T8 T9 T10 T11 T12 T13
-T14	Person2 8 11	Tom
-T15	Person2 20 24	your
-T16	Person2 20 23	you
-T17	Person2 20 23	you
-T18	Person2 13 14	I
-T19	Person2 13 14	I
-T20	Person2 20 23	you
-T21	Person2 8 534	Tom, I need your advice. I know you are clever with inventions, and that you like a  Tom: "That is true, Uncle. I love a challenge! What is your problem? Maybe I can help you solve it with science!" Chapter A. Uses of metals aaa Uncle: "I have a huge pile of metal scrap that I need to sort. I know there is iron, aluminium and copper in the pile of metal scrap. But I have no idea how to do this! Iron and aluminium are both metals, and look very similar. Can you think of a way to help me sort them?" What do you think Tom's
-*	Same_Person T14 T15 T16 T17 T18 T19 T20 T21
-T22	Person3 8 11	Tom
-*	Same_Person T22
+T1	Person1 8 11	Tom
+T2	Person1 93 96	Tom
+T3	Person2 0 5	Uncle
+T4	Person2 113 118	Uncle
+T5	Person2 237 242	Uncle
+T6	Person1 529 532	Tom
+T7	Person2 545 550	Uncle
+*	Same_Person T3 T7 T5 T4
+*	Same_Person T2 T1 T6

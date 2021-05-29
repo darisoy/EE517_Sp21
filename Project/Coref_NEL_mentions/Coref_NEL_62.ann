@@ -1,8 +1,8 @@
 T1	Person1 370 388	Thomas Hunt Morgan
-*	Same_Person T1
+*	Same_Person T1 T6
 T2	Person2 658 675	Alfred Sturtevant
-*	Same_Person T2
-T3	Person3 841 847	sister
-*	Same_Person T3
+*	Same_Person T2 T7
 T4	InDatabase 370 388	Thomas Hunt Morgan
 T5	InDatabase 658 675	Alfred Sturtevant
+T6	Person1 640 646	Morgan
+T7	Person2 737 747	Sturtevant

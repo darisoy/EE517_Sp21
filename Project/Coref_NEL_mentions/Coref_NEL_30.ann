@@ -1,11 +1,13 @@
-T1	Person1 599 609	James Watt
+T1	Person7 599 609	James Watt
 *	Same_Person T1
 T2	Person2 159 172	Laurie Driver
 *	Same_Person T2
 T3	Person3 209 226	Stephen Codringto
 *	Same_Person T3
-T4	Person4 416 429	Chuck Szmurlo
+T4	Person5 416 429	Chuck Szmurlo
 *	Same_Person T4
-T5	Person5 482 496	Mihael Simonic
+T5	Person6 482 496	Mihael Simonic
 *	Same_Person T5
-T6	InDatabase 599 609	James Watt
+T7	Person1 134 140	Justin
+T8	Person4 247 253	Willow
+T9	Person5 290 297	HolgerK

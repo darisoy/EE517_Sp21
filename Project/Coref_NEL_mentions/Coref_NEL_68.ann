@@ -1,0 +1,7 @@
+T1	Person1 40 46	Buddha
+T2	InDatabase 40 46	Buddha
+T3	InDatabase 171 177	Buddha
+T4	Person1 171 177	Buddha
+T5	Person1 287 293	Buddha
+T6	InDatabase 290 291	d
+*	Same_Person T1 T4 T5

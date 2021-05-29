@@ -1,6 +1,4 @@
-T1	Person1 19 123	ance In almost unprecedented actions during May 2007, United States government agencies put a US citizen
 T2	Person1 172 175	him
 T3	Person1 194 197	his
-T4	Person1 172 175	him
-T5	Person1 172 175	him
-*	Same_Person T1 T2 T3 T4 T5
+*	Same_Person T2 T3 T1
+T1	Person1 243 246	him

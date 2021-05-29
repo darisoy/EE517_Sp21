@@ -1,8 +1,6 @@
 T1	Person1 7 20	Rosalyn Yalow
-*	Same_Person T1
-T2	Person2 0 20	Doctor Rosalyn Yalow
-T3	Person2 101 104	She
-T4	Person2 101 104	She
-T5	Person2 202 205	her
-*	Same_Person T2 T3 T4 T5
+T3	Person1 101 104	She
+T5	Person1 202 205	her
+*	Same_Person T3 T5 T1 T2
 T6	InDatabase 7 20	Rosalyn Yalow
+T2	Person1 176 179	She

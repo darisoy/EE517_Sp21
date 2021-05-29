@@ -1,10 +1,7 @@
-T1	Person1 4 16	Isaac Newton
-*	Same_Person T1
-T2	Person2 10 16	Newton
-*	Same_Person T2
 T3	Person3 0 16	Sir Isaac Newton
 T4	Person3 136 138	He
-T5	Person3 89 91	he
-*	Same_Person T3 T4 T5
-T6	InDatabase 4 16	Isaac Newton
-T7	InDatabase 10 16	Newton
+T1	InDatabase 0 16	Sir Isaac Newton
+T2	Person3 358 360	he
+T5	Person3 389 395	Newton
+T6	InDatabase 389 395	Newton
+*	Same_Person T5 T2 T3 T4

@@ -1,8 +1,4 @@
 T1	Person1 4 7	boy
-*	Same_Person T1
-T2	Person2 0 19	The boy on the left
-T3	Person2 70 73	his
-T4	Person2 11 61	the left wants to have all of the alphabet letters
-*	Same_Person T2 T3 T4
-T5	Person3 4 7	boy
-*	Same_Person T5
+*	Same_Person T1 T3
+T3	Person1 70 73	his
+T2	Person2 116 119	boy

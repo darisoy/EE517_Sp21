@@ -1,24 +1,18 @@
-T1	Person1 405 418	Charles Lyell
-*	Same_Person T1
-T2	Person2 26 32	Darwin
-T3	Person2 26 32	Darwin
-T4	Person2 516 519	him
-*	Same_Person T2 T3 T4
-T5	Person3 405 65	
-T6	Person3 478 481	his
-T7	Person3 413 418	Lyell
-T8	Person3 413 418	Lyell
-*	Same_Person T5 T6 T7 T8
-T9	Person4 26 54	Darwin Jean Baptiste Lamarck
-*	Same_Person T9
-T10	Person5 33 65	Jean Baptiste Lamarck (17441829)
-T11	Person5 102 104	He
-T12	Person5 47 54	Lamarck
-T13	Person5 232 235	His
-T14	Person5 47 54	Lamarck
-*	Same_Person T10 T11 T12 T13 T14
-T15	InDatabase 405 418	Charles Lyell
-T16	InDatabase 26 32	Darwin
-T17	InDatabase 26 32	Darwin
-T18	InDatabase 413 418	Lyell
-T19	InDatabase 413 418	Lyell
+T1	Person1 26 32	Darwin
+T2	InDatabase 26 32	Darwin
+T3	Person2 33 54	Jean Baptiste Lamarck
+T4	InDatabase 33 54	Jean Baptiste Lamarck
+T5	Person2 102 104	He
+T6	Person2 188 195	Lamarck
+T7	Person2 232 235	His
+T8	Person2 387 394	Lamarck
+T9	Person3 405 418	Charles Lyell
+T10	InDatabase 405 418	Charles Lyell
+T11	Person1 466 472	Darwin
+T12	Person3 516 519	him
+T13	Person3 478 481	his
+T14	Person3 548 553	Lyell
+T15	Person3 645 650	Lyell
+*	Same_Person T3 T5 T6 T7 T8
+*	Same_Person T9 T12 T13 T14 T15
+*	Same_Person T11 T1

@@ -1,5 +1,3 @@
 T1	Person1 3 8	Maria
-*	Same_Person T1
-T2	Person2 3 10	Maria's
-T3	Person2 66 69	Her
-*	Same_Person T2 T3
+*	Same_Person T1 T3
+T3	Person1 66 69	Her

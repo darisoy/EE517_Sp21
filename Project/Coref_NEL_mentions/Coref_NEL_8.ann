@@ -1,6 +1,4 @@
 T1	Person1 115 121	Dalton
 T2	Person1 134 136	He
-T3	Person1 115 121	Dalton
 *	Same_Person T1 T2 T3
-T4	InDatabase 115 121	Dalton
-T5	InDatabase 115 121	Dalton
+T3	Person1 233 239	Dalton
