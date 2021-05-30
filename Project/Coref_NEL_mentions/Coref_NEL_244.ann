@@ -1,20 +1,14 @@
 T1	Person1 325 329	Juan
-*	Same_Person T1
-T2	Person2 325 331	Juan's
-T3	Person2 325 329	Juan
-T4	Person2 325 331	Juan's
-T5	Person2 325 331	Juan's
-T6	Person2 12 14	he
-*	Same_Person T2 T3 T4 T5 T6
-T7	Person3 325 329	Juan
-*	Same_Person T7
-T8	Person4 325 329	Juan
-*	Same_Person T8
-T9	Person5 332 335	dad
-*	Same_Person T9
-T10	Person6 325 335	Juan's dad
-T11	Person6 337 340	His
-T12	Person6 12 14	he
-T13	Person6 416 419	his
-T14	Person6 416 419	his
-*	Same_Person T10 T11 T12 T13 T14
+T2	InDatabase 279 285	Newton
+T3	Person2 279 285	Newton
+T4	Person3 332 335	dad
+T5	Person3 337 340	His
+T6	Person3 357 359	he
+T7	Person1 394 398	Juan
+T8	Person3 416 419	his
+T9	Person1 446 450	Juan
+T10	Person3 454 457	his
+T11	Person1 512 516	Juan
+T12	Person1 537 539	he
+*	Same_Person T11 T12 T7 T9 T1
+*	Same_Person T8 T10 T6 T4 T5

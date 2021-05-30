@@ -1,8 +1,6 @@
 T1	Person1 119 133	Thomas Malthus
-*	Same_Person T1
-T2	Person2 119 144	Thomas Malthus (17661834)
-T3	Person2 171 173	He
-T4	Person2 126 133	Malthus
-*	Same_Person T2 T3 T4
+T3	Person1 171 173	He
 T5	InDatabase 119 133	Thomas Malthus
-T6	InDatabase 126 133	Malthus
+T2	Person1 225 232	Malthus
+T4	InDatabase 225 232	Malthus
+*	Same_Person T2 T3 T1

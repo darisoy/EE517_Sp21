@@ -1,5 +1,4 @@
 T1	Person1 0 24	Robert Harding Whittaker
-*	Same_Person T1
-T2	Person2 0 36	Robert Harding Whittaker (1920-1980)
-T3	Person2 76 78	He
-*	Same_Person T2 T3
+*	Same_Person T1 T3
+T3	Person1 76 78	He
+T4	InDatabase 0 24	Robert Harding Whittaker

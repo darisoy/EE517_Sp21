@@ -1,9 +1,7 @@
-T1	Person1 699 703	Tony
-T2	Person1 65 67	he
-T3	Person1 775 778	his
-T4	Person1 699 41	
-*	Same_Person T1 T2 T3 T4
-T5	Person2 699 703	Tony
-*	Same_Person T5
-T6	Person3 740 744	boys
-*	Same_Person T6
+T7	Person1 33 39	Newton
+T8	InDatabase 33 39	Newton
+T1	Person2 699 703	Tony
+T2	Person3 740 744	boys
+T3	Person2 745 747	he
+T4	Person2 824 828	Tony
+*	Same_Person T1 T4 T3

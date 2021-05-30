@@ -1,9 +1,9 @@
 T1	Person1 0 10	Rutherford
 T2	Person1 18 21	his
-T3	Person1 0 10	Rutherford
-T4	Person1 0 10	Rutherford
 T5	Person1 421 423	He
-*	Same_Person T1 T2 T3 T4 T5
+*	Same_Person T1 T2 T5 T8 T3
 T6	InDatabase 0 10	Rutherford
-T7	InDatabase 0 10	Rutherford
-T8	InDatabase 0 10	Rutherford
+T3	Person1 179 189	Rutherford
+T4	InDatabase 179 189	Rutherford
+T7	InDatabase 237 247	Rutherford
+T8	Person1 237 247	Rutherford

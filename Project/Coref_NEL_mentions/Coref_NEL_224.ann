@@ -2,6 +2,6 @@ T1	Person1 82 85	boy
 *	Same_Person T1
 T2	Person2 1127 1139	An astronaut
 T3	Person2 1239 1241	He
-T4	Person2 1297 1300	his
 T5	Person2 1297 1300	his
-*	Same_Person T2 T3 T4 T5
+*	Same_Person T2 T3 T5 T4
+T4	Person2 1384 1387	his

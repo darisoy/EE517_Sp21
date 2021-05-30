@@ -1,6 +1,13 @@
-T1	Person1 4 35	David Attenborough Jane Goodall
-*	Same_Person T1
-T2	Person2 36 60	Jacques Cousteau Al Gore
-*	Same_Person T2
-T3	Person3 246 270	Anthony Steve Irwin Dian
-*	Same_Person T3
+T1	Person1 4 22	David Attenborough
+T2	Person2 23 35	Jane Goodall
+T3	Person3 36 52	Jacques Cousteau
+T4	Person4 53 60	Al Gore
+T5	InDatabase 53 60	Al Gore
+T6	Person5 222 236	Wangari Mathai
+T7	Person6 237 253	Lawrence Anthony
+T8	Person7 254 265	Steve Irwin
+T9	Person8 266 278	Diane Wilson
+T10	Person9 279 290	Dian Fossey
+T11	Person10 291 301	Ian Player
+T12	Person5 351 365	Wangari Mathai
+*	Same_Person T6 T12

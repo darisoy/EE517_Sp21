@@ -1,35 +1,25 @@
 T1	Person1 13 27	John T. Scopes
-*	Same_Person T1
-T2	Person2 767 782	Clarence Darrow
-*	Same_Person T2
-T3	Person3 865 887	William Jennings Bryan
-T4	Person3 944 1024	three-time Democratic candidate for President as well as a devout fundamentalist
-T5	Person3 882 887	Bryan
-T6	Person3 302 305	his
-T7	Person3 882 1358	Bryan, a Photo of John T. Scopes, 1900. Library of Congress.  three-time Democratic candidate for President as well as a devout fundamentalist was hired to serve as a special prosecutor for the case. The Scopes trial was a conflict over evolution and the role of science and religion in public schools and in a larger sense, American society. Before a crowd of over 2,000 people, Darrow questioned Bryan about his religious beliefs. Through the onslaught of questions, Bryan's
-T8	Person3 302 305	his
-T9	Person3 1450 1452	He
-T10	Person3 302 305	his
-T11	Person3 882 887	Bryan
-*	Same_Person T3 T4 T5 T6 T7 T8 T9 T10 T11
-T12	Person4 882 887	Bryan
-*	Same_Person T12
-T13	Person5 13 27	John T. Scopes
-*	Same_Person T13
-T14	Person6 13 156	John T. Scopes The first state in the country to pass a law making it a criminal offense to teach evolution in a public school was in Tennessee
-T15	Person6 302 305	his
-T16	Person6 21 27	Scopes
-T17	Person6 13 27	John T. Scopes
-T18	Person6 21 27	Scopes
-T19	Person6 21 27	Scopes
-*	Same_Person T14 T15 T16 T17 T18 T19
-T20	Person7 1603 1608	Woman
-*	Same_Person T20
-T21	Person8 1858 1863	women
-*	Same_Person T21
-T22	Person9 1858 1863	women
-*	Same_Person T22
-T23	InDatabase 767 782	Clarence Darrow
-T24	InDatabase 882 887	Bryan
-T25	InDatabase 882 887	Bryan
-T26	InDatabase 882 887	Bryan
+T2	InDatabase 13 27	John T. Scopes
+T3	Person1 458 469	John Scopes
+T4	InDatabase 458 469	John Scopes
+T5	Person1 497 500	his
+T6	Person1 857 863	Scopes
+T7	Person4 865 887	William Jennings Bryan
+T8	Person1 900 914	John T. Scopes
+T9	Person1 1086 1092	Scopes
+T10	Person3 1262 1268	Darrow
+T11	Person3 767 782	Clarence Darrow
+T12	InDatabase 767 782	Clarence Darrow
+T13	Person4 1280 1285	Bryan
+T14	Person4 1351 1356	Bryan
+T15	Person4 1376 1379	his
+T16	Person4 1450 1452	He
+T17	Person4 1486 1489	his
+T18	Person4 1545 1550	Bryan
+T19	Person1 1569 1575	Scopes
+T20	Person5 1858 1863	women
+T21	Person5 1920 1925	women
+*	Same_Person T1 T3 T5 T8 T6 T9 T19
+*	Same_Person T7 T13 T15 T14 T17 T16 T18
+*	Same_Person T20 T21
+*	Same_Person T11 T10

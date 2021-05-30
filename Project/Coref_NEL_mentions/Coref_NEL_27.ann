@@ -1,4 +1,3 @@
 T1	Person1 0 15	Georg Simon Ohm
-*	Same_Person T1
-T2	Person2 17 19	He
-*	Same_Person T2
+T2	Person1 17 19	He
+*	Same_Person T2 T1

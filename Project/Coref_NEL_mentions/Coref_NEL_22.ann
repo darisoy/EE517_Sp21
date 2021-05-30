@@ -1,12 +1,26 @@
 T1	Person1 118 127	Roosevelt
-T2	Person1 118 127	Roosevelt
-T3	Person1 679 127	
-*	Same_Person T1 T2 T3
-T4	Person2 118 127	Roosevelt
-*	Same_Person T4
 T5	Person3 1188 236	
-T6	Person3 74 76	he
-*	Same_Person T5 T6
 T7	InDatabase 118 127	Roosevelt
-T8	InDatabase 118 127	Roosevelt
-T9	InDatabase 118 127	Roosevelt
+T2	Person2 132 141	Churchill
+T4	InDatabase 132 141	Churchill
+T6	Person3 228 234	Stalin
+T8	InDatabase 228 234	Stalin
+T9	Person2 245 254	Churchill
+T10	InDatabase 245 254	Churchill
+T11	Person1 265 274	Roosevelt
+T12	InDatabase 265 274	Roosevelt
+T13	Person1 689 698	Roosevelt
+T14	InDatabase 689 698	Roosevelt
+T15	Person2 708 717	Churchill
+T16	InDatabase 708 717	Churchill
+T17	Person3 796 802	Stalin
+T18	InDatabase 796 802	Stalin
+T19	Person4 1188 1197	Mussolini
+T20	InDatabase 1188 1197	Mussolini
+T21	Person4 1225 1227	he
+T22	Person3 1734 1740	Stalin
+T23	InDatabase 1734 1740	Stalin
+*	Same_Person T2 T9 T15
+*	Same_Person T6 T17 T22
+*	Same_Person T1 T11 T13
+*	Same_Person T19 T21

@@ -1,25 +1,19 @@
-T1	Person1 0 2	He
-T2	Person1 47 50	his
-T3	Person1 47 50	his
-T4	Person1 137 140	His
-T5	Person1 282 288	Heitsi
-T6	Person1 14 16	he
-T7	Person1 47 50	his
-T8	Person1 47 50	his
-T9	Person1 14 16	he
-T10	Person1 47 50	his
-T11	Person1 137 140	His
-T12	Person1 282 700	Heitsi slings the quiver in which he keeps his arrows over his shoulder. The quiver is made from tree bark. It is a good quiver, but he really wants one made of animal skin like the one his father carries. The arrows inside the quiver have wooden shafts and sharp tips made of metal. His younger cousins have arrows with tips made of hardwood. In the old days all the arrow tips were made of wood or bone, but Heitsi's
-T13	Person1 0 2	He
-T14	Person1 47 50	his
-T15	Person1 47 50	his
-T16	Person1 14 16	he
-*	Same_Person T1 T2 T3 T4 T5 T6 T7 T8 T9 T10 T11 T12 T13 T14 T15 T16
-T17	Person2 51 57	mother
-*	Same_Person T17
-T18	Person3 129 135	sister
-*	Same_Person T18
-T19	Person4 51 57	mother
-*	Same_Person T19
-T20	Person5 472 478	father
-*	Same_Person T20
+T1	Person3 0 2	He
+T2	Person3 47 50	his
+T3	Person2 51 57	mother
+T4	Person3 116 119	his
+T5	Person5 129 135	sister
+T6	Person3 137 140	His
+T7	Person2 141 147	mother
+T8	Person3 316 318	he
+T9	Person3 282 288	Heitsi
+T10	Person3 325 328	his
+T11	Person3 341 344	his
+T12	Person3 415 417	he
+T13	Person3 468 471	his
+T14	Person4 472 478	father
+T15	Person3 566 569	His
+T16	Person3 692 698	Heitsi
+T17	Person3 816 826	his quiver
+*	Same_Person T7 T3
+*	Same_Person T1 T2 T4 T17 T16 T15 T13 T12 T8 T10 T11 T9 T6

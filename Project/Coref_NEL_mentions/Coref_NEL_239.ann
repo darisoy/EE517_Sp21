@@ -3,7 +3,5 @@ T1	Person1 373 376	men
 T2	Person2 381 386	women
 *	Same_Person T2
 T3	Person3 429 435	mother
-*	Same_Person T3
-T4	Person4 7 435	ation 4. Menstruation Chapter 2. Systems in the human body 53 5. Fertilisation 6. Implantation VISIT Learn more about STDs and sexual health:  Health issues involving the reproductive system Infertility: About 10% of heterosexual couples have problems falling pregnant and may even be completely unable to sexually reproduce. This is infertility and it affects both men and women. Foetal Alcohol Syndrome: When a pregnant mother
-T5	Person4 432 435	her
-*	Same_Person T4 T5
+*	Same_Person T3 T4
+T4	Person3 458 461	her

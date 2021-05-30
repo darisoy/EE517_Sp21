@@ -1,7 +1,5 @@
 T1	Person1 144 150	Farrah
 T2	Person1 164 167	She
 T3	Person1 192 195	she
-T4	Person1 144 150	Farrah
 *	Same_Person T1 T2 T3 T4
-T5	InDatabase 144 150	Farrah
-T6	InDatabase 144 150	Farrah
+T4	Person1 220 226	Farrah

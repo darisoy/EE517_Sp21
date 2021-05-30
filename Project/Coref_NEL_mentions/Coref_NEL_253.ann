@@ -1,77 +1,53 @@
 T1	Person1 398 407	Malcolm X
-T2	Person1 398 405	Malcolm
-T3	Person1 7 9	he
-T4	Person1 676 679	his
-T5	Person1 722 729	himself
-T6	Person1 676 679	his
-T7	Person1 398 407	Malcolm X
-T8	Person1 398 407	Malcolm X
-T9	Person1 676 679	his
-T10	Person1 7 9	he
-T11	Person1 7 9	he
-T12	Person1 398 405	Malcolm
-T13	Person1 7 9	he
-T14	Person1 398 850	Malcolm X was one of those leaders. Born Malcolm Little on May 19, 1925 in Omaha, Nebraska, Malcolm at the age of 20 was sent to jail for burglary. It was in prison where he studied Islam through the teachings of Elijah Muhammad, the head of the Nation of Islam. By 1952, after his release from prison, Malcolm (now ridding himself of his last name and taking the name of X) had become a minister of Islam, quickly rising in the ranks of the religion's
-T15	Person1 7 9	he
-T16	Person1 676 679	his
-T17	Person1 676 679	his
-T18	Person1 676 679	his
-T19	Person1 398 405	Malcolm
-T20	Person1 406 407	X
-T21	Person1 76 77	I
-T22	Person1 676 679	his
-T23	Person1 676 679	his
-T24	Person1 398 407	Malcolm X
-T25	Person1 676 679	his
-T26	Person1 398 405	Malcolm
-T27	Person1 676 679	his
-T28	Person1 7 9	he
-T29	Person1 398 407	Malcolm X
-*	Same_Person T1 T2 T3 T4 T5 T6 T7 T8 T9 T10 T11 T12 T13 T14 T15 T16 T17 T18 T19 T20 T21 T22 T23 T24 T25 T26 T27 T28 T29
-T30	Person2 398 453	Malcolm X was one of those leaders. Born Malcolm Little
-T31	Person2 676 746	his release from prison, Malcolm (now ridding himself of his last name
-*	Same_Person T30 T31
-T32	Person3 611 626	Elijah Muhammad
-*	Same_Person T32
-T33	Person4 618 626	Muhammad
-*	Same_Person T33
-T34	Person5 1094 1106	Mike Wallace
-*	Same_Person T34
-T35	Person6 618 626	Muhammad
-*	Same_Person T35
-T36	Person7 2817 2831	James Meredith
-*	Same_Person T36
-T37	Person8 3183 2749	
-T38	Person8 3191 3201	Carmichael
-T39	Person8 3191 3201	Carmichael
-T40	Person8 676 679	his
-*	Same_Person T37 T38 T39 T40
-T41	Person9 398 405	Malcolm
-*	Same_Person T41
-T42	Person10 398 405	Malcolm
-*	Same_Person T42
-T43	Person11 2003 405	
-*	Same_Person T43
-T44	Person12 3154 3169	Floyd McKissick
-*	Same_Person T44
-T45	Person13 1255 1258	men
-*	Same_Person T45
-T46	Person14 2817 772	
-T47	Person14 2823 850	
-T48	Person14 7 9	he
-T49	Person14 2823 2831	Meredith
-*	Same_Person T46 T47 T48 T49
-T50	Person15 3059 3062	man
-*	Same_Person T50
-T51	InDatabase 398 407	Malcolm X
-T52	InDatabase 398 407	Malcolm X
-T53	InDatabase 398 407	Malcolm X
-T54	InDatabase 398 407	Malcolm X
-T55	InDatabase 398 407	Malcolm X
-T56	InDatabase 611 626	Elijah Muhammad
-T57	InDatabase 618 626	Muhammad
-T58	InDatabase 1094 1106	Mike Wallace
-T59	InDatabase 618 626	Muhammad
-T60	InDatabase 2817 2831	James Meredith
-T61	InDatabase 3191 3201	Carmichael
-T62	InDatabase 3191 3201	Carmichael
+T2	InDatabase 398 407	Malcolm X
+T3	InDatabase 439 453	Malcolm Little
+T4	Person1 490 497	Malcolm
+T5	Person1 569 571	he
+T6	Person1 701 708	Malcolm
+T7	Person1 439 453	Malcolm Little
+T8	Person1 722 729	himself
+T9	Person1 733 736	his
+T10	Person1 980 989	Malcolm X
+T11	InDatabase 980 989	Malcolm X
+T12	Person2 1094 1106	Mike Wallace
+T13	Person1 1143 1152	Malcolm X
+T14	InDatabase 1143 1152	Malcolm X
+T15	InDatabase 1094 1106	Mike Wallace
+T16	Person1 1370 1372	he
+T17	Person1 1439 1441	he
+T18	Person1 1577 1584	Malcolm
+T19	Person1 1756 1763	Malcolm
+T20	Person1 1802 1804	he
+T21	Person1 1945 1948	his
+T22	Person1 2010 2017	Malcolm
+T23	Person1 2003 2009	Malcom
+T24	Person1 2184 2187	his
+T25	Person1 2212 2215	his
+T26	Person1 2264 2273	Malcolm X
+T27	InDatabase 2264 2273	Malcolm X
+T28	Person1 2278 2281	his
+T30	Person3 2297 2305	Muhammad
+T29	Person1 2430 2437	Malcolm
+T31	Person1 2469 2472	his
+T32	Person1 2612 2614	he
+T33	Person4 2647 2650	men
+T34	Person1 2652 2661	Malcolm X
+T35	InDatabase 2652 2661	Malcolm X
+T36	InDatabase 2817 2831	James Meredith
+T37	Person5 2817 2831	James Meredith
+T38	Person5 2957 2965	Meredith
+T39	Person5 3036 3038	he
+T40	Person6 3059 3062	man
+T41	Person7 3127 3135	Dr. King
+T42	InDatabase 3127 3135	Dr. King
+T43	Person8 3154 3169	Floyd McKissick
+T44	Person9 3183 3201	Stokely Carmichael
+T45	Person5 3233 3241	Meredith
+T46	Person7 3432 3436	King
+T47	Person9 3540 3550	Carmichael
+T48	Person9 3705 3715	Carmichael
+T49	Person9 3717 3720	his
+*	Same_Person T47 T48 T49 T44
+*	Same_Person T46 T41
+*	Same_Person T37 T39 T45 T38
+*	Same_Person T5 T6 T8 T9 T1 T7 T17 T13 T34 T32 T31 T29 T25 T26 T28 T24 T22 T23 T21 T19 T20 T18 T16 T4 T10

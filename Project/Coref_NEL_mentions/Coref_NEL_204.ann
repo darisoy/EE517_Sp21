@@ -1,7 +1,5 @@
 T1	Person1 680 684	girl
 *	Same_Person T1
-T2	Person2 680 684	girl
-*	Same_Person T2
-T3	Person3 3 684	an reproductive organs Puberty is a time when the human reproductive organs start to develop, maturing about 5 6 years after puberty started. In males, the reproductive organs include the penis and two testes hanging in a pouch or bag of skin called the scrotum. At the start of puberty the scrotum starts to grow larger and pubic hair starts to appear. The penis also grows bigger. Inside the scrotum, the testes mature and start to produce sperm. When the male reproductive organs are mature in an adult, they will look as they do in the following diagram: The female reproductive organs include the vagina, uterus, two fallopian tubes (oviducts) and two ovaries. Inside the girl
 T4	Person3 784 787	she
-*	Same_Person T3 T4
+T2	Person3 771 775	girl
+*	Same_Person T2 T4

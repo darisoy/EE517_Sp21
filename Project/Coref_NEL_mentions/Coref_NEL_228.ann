@@ -1,6 +1,8 @@
 T1	Person1 3 9	Newton
-*	Same_Person T1
-T2	Person2 82 194	there aren't any external forces present. This means that friction is not present. In the case of the ice skater
+*	Same_Person T1 T2
 T3	Person2 259 262	she
-*	Same_Person T2 T3
 T4	InDatabase 3 9	Newton
+T2	Person1 35 41	Newton
+T5	InDatabase 35 41	Newton
+T6	Person2 184 194	ice skater
+*	Same_Person T6 T3

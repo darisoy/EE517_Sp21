@@ -1,8 +1,6 @@
 T1	Person1 368 380	George Creel
 T2	Person1 382 420	The former journalist from Kansas City
 *	Same_Person T1 T2
-T3	Person2 289 295	Wilson
-*	Same_Person T3
 T4	Person3 900 903	Men
 *	Same_Person T4
 T5	InDatabase 368 380	George Creel

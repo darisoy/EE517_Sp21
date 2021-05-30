@@ -1,8 +1,9 @@
 T1	Person1 161 175	Alfred Wegener
-T2	Person1 168 175	Wegener
 T3	Person1 298 300	He
-T4	Person1 11 14	his
-T5	Person1 168 366	Wegener did some background reading and made an observation. Wegener then asked an important question and set about to answer it. He collected a great deal of evidence to support his idea. Wegener's
-*	Same_Person T1 T2 T3 T4 T5
+*	Same_Person T1 T3 T2 T4 T8
 T6	InDatabase 161 175	Alfred Wegener
-T7	InDatabase 168 175	Wegener
+T2	Person1 229 236	Wegener
+T5	InDatabase 229 236	Wegener
+T4	Person1 347 350	his
+T7	InDatabase 357 364	Wegener
+T8	Person1 357 364	Wegener

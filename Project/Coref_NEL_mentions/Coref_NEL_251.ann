@@ -1,5 +1,0 @@
-T1	Person1 0 16	The Calvin Cycle
-T2	Person1 0 16	The Calvin Cycle
-*	Same_Person T1 T2
-T3	Person2 4 16	Calvin Cycle
-*	Same_Person T3

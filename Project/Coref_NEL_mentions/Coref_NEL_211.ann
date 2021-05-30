@@ -1,16 +1,14 @@
 T1	Person1 12 25	The scientist
-T2	Person1 12 25	The scientist
-T3	Person1 87 25	
-T4	Person1 13 15	he
-T5	Person1 87 25	
-*	Same_Person T1 T2 T3 T4 T5
-T6	Person2 12 581	The scientist must next form a conclusion. The scientist must study all of the data. What statement best explains the data? Did the experiment prove the hypothesis? Sometimes an experiment shows that a hypothesis is correct. Other times the data disproves the hypothesis. Sometimes it's not possible to tell. If there is no conclusion, the scientist may test the hypothesis again. This time he will use some different experiments. No matter what the experiment shows the scientist has learned something. Even a disproved hypothesis can lead to new questions. The farmer
-T7	Person2 626 629	She
-T8	Person2 626 629	She
-T9	Person2 239 242	her
-T10	Person2 12 581	The scientist must next form a conclusion. The scientist must study all of the data. What statement best explains the data? Did the experiment prove the hypothesis? Sometimes an experiment shows that a hypothesis is correct. Other times the data disproves the hypothesis. Sometimes it's not possible to tell. If there is no conclusion, the scientist may test the hypothesis again. This time he will use some different experiments. No matter what the experiment shows the scientist has learned something. Even a disproved hypothesis can lead to new questions. The farmer
-T11	Person2 626 629	She
-T12	Person2 962 965	she
-T13	Person2 962 965	she
-T14	Person2 626 629	She
-*	Same_Person T6 T7 T8 T9 T10 T11 T12 T13 T14
+T2	Person1 403 405	he
+T3	Person1 59 68	scientist
+T4	Person1 483 492	scientist
+T5	Person2 575 581	farmer
+T6	Person2 626 629	She
+T7	Person2 726 729	She
+T8	Person2 777 783	farmer
+T9	Person2 914 917	She
+T10	Person2 962 965	she
+T11	Person2 1070 1073	she
+T12	Person2 1111 1114	She
+*	Same_Person T11 T12 T9 T10 T8 T7 T6 T5
+*	Same_Person T4 T2 T3 T1

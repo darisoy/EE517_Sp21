@@ -1,7 +1,4 @@
 T1	Person1 81 93	Brian Fisher
-T2	Person1 13 15	he
-*	Same_Person T1 T2
-T3	Person2 12 115	The Invisible Majority Most of us think ants are just pests. But not Brian Fisher. Known as The Ant Guy
-*	Same_Person T3
-T4	Person3 112 115	Guy
-*	Same_Person T4
+T4	Person1 112 115	Guy
+*	Same_Person T4 T1 T2
+T2	Person1 117 119	he

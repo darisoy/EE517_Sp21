@@ -1,11 +1,8 @@
 T1	Person1 9 17	Michelle
-*	Same_Person T1
-T2	Person2 9 60	Michelle on her scooter at the start of this lesson
-T3	Person2 21 24	her
-T4	Person2 21 24	her
-T5	Person2 95 98	she
-T6	Person2 21 24	her
-T7	Person2 21 24	her
-T8	Person2 21 24	her
-T9	Person2 21 24	her
-*	Same_Person T2 T3 T4 T5 T6 T7 T8 T9
+T5	Person1 95 98	she
+T7	Person1 21 24	her
+T2	Person1 103 106	her
+T3	Person1 135 138	her
+T4	Person1 199 202	her
+T6	Person1 244 247	her
+*	Same_Person T6 T3 T4 T2 T5 T7 T1

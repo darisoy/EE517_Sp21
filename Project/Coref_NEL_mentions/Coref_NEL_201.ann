@@ -1,21 +1,19 @@
-T1	Person1 21 273	ates get the government it has? Who formed it? Why did they form it? Those are tough questions. Maybe it would be best to begin with a story. A Story Once upon a time there was a small island country called Dnalgne where the people were ruled by a king
-T2	Person1 275 273	
+T1	Person1 269 273	king
+T2	Person1 279 283	king
 T3	Person1 329 331	He
-T4	Person1 275 273	
-T5	Person1 681 684	his
-T6	Person1 9 11	he
-T7	Person1 8 273	the United States get the government it has? Who formed it? Why did they form it? Those are tough questions. Maybe it would be best to begin with a story. A Story Once upon a time there was a small island country called Dnalgne where the people were ruled by a king
-T8	Person1 8 273	the United States get the government it has? Who formed it? Why did they form it? Those are tough questions. Maybe it would be best to begin with a story. A Story Once upon a time there was a small island country called Dnalgne where the people were ruled by a king
-T9	Person1 8 950	the United States get the government it has? Who formed it? Why did they form it? Those are tough questions. Maybe it would be best to begin with a story. A Story Once upon a time there was a small island country called Dnalgne where the people were ruled by a king. The king pretty much had all the power on the island. He was clearly in charge and made the rules and decisions. Since the island was small, some people decided to leave the island and sail far across an ocean to live in a new place. When they got there they settled on a large piece of land much larger than the island. The king, however, sent a message reminding them that even though they were far from his island he was still their ruler. For a while this didn't seem to matter because the king pretty much left them alone. They began to make some of their own laws and decisions. They liked being on their own without the king telling them what to do. This made the King
-T10	Person1 329 331	He
-T11	Person1 329 331	He
-T12	Person1 329 331	He
-T13	Person1 9 11	he
-T14	Person1 8 273	the United States get the government it has? Who formed it? Why did they form it? Those are tough questions. Maybe it would be best to begin with a story. A Story Once upon a time there was a small island country called Dnalgne where the people were ruled by a king
-T15	Person1 8 273	the United States get the government it has? Who formed it? Why did they form it? Those are tough questions. Maybe it would be best to begin with a story. A Story Once upon a time there was a small island country called Dnalgne where the people were ruled by a king
-T16	Person1 9 11	he
-T17	Person1 9 11	he
-T18	Person1 329 331	He
-T19	Person1 681 684	his
-T20	Person1 275 273	
-*	Same_Person T1 T2 T3 T4 T5 T6 T7 T8 T9 T10 T11 T12 T13 T14 T15 T16 T17 T18 T19 T20
+T4	Person1 600 604	king
+T5	Person1 692 694	he
+T6	Person1 769 773	king
+T7	Person1 902 906	king
+T8	Person1 946 950	King
+T9	Person1 958 960	He
+T10	Person1 1049 1051	He
+T11	Person1 1067 1069	He
+T12	Person1 1094 1096	he
+T13	Person1 1225 1229	king
+T14	Person1 1258 1262	king
+T15	Person1 1330 1332	he
+T16	Person1 1310 1317	he read
+T17	Person1 1361 1363	He
+T18	Person1 1570 1574	king
+*	Same_Person T9 T8 T18 T17 T15 T16 T13 T14 T12 T10 T11 T7 T6 T5 T4 T3 T2 T1

@@ -3,3 +3,6 @@ T1	Person1 270 289	John Maynard Keynes
 T2	Person2 307 322	Milton Friedman
 *	Same_Person T2
 T3	InDatabase 270 289	John Maynard Keynes
+T4	Person3 242 252	Adam Smith
+T5	InDatabase 242 252	Adam Smith
+T6	InDatabase 307 322	Milton Friedman

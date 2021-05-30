@@ -1,5 +1,5 @@
-T1	Person1 636 649	Eric Hemenway
+T1	InDatabase 636 649	Eric Hemenway
 *	Same_Person T1
-T2	Person2 626 649	historian Eric Hemenway
-T3	Person2 681 684	him
+T3	Person1 681 684	him
+T2	Person1 636 649	Eric Hemenway
 *	Same_Person T2 T3

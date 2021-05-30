@@ -1,19 +1,14 @@
-T1	Person1 124 134	Washington
-T2	Person1 266 269	him
-T3	Person1 550 134	
-T4	Person1 124 134	Washington
-T5	Person1 124 713	Washington marched south from New York with thousands of French and Patriot soldiers. The French navy sailed north from the Caribbean to meet him. The British Army was now surrounded at Yorktown. They were greatly outnumbered by the French and American troops. For eleven days the American forces bombarded (bombed) the British. Finally Cornwallis sent out the white flag for surrender. He originally made a lot of demands to George Washington for his surrender, but Washington didn't agree. When the American troops started to prepare for another attack, Cornwallis agreed to Washington's
-*	Same_Person T1 T2 T3 T4 T5
-T6	Person2 22 48	British General Cornwallis
-T7	Person2 82 84	he
-T8	Person2 98 101	his
-T9	Person2 38 48	Cornwallis
-T10	Person2 511 513	He
-T11	Person2 98 101	his
-T12	Person2 38 48	Cornwallis
-T13	Person2 82 84	he
-T14	Person2 511 513	He
-T15	Person2 82 84	he
-*	Same_Person T6 T7 T8 T9 T10 T11 T12 T13 T14 T15
-T16	InDatabase 124 134	Washington
-T17	InDatabase 124 134	Washington
+T2	Person2 266 269	him
+T3	Person1 38 48	Cornwallis
+T4	Person1 87 89	he
+T5	Person2 124 134	Washington
+T1	Person1 461 471	Cornwallis
+T6	Person1 511 513	He
+T7	InDatabase 550 567	George Washington
+T8	Person1 550 567	George Washington
+T9	Person1 572 575	his
+T10	Person2 591 601	Washington
+T11	Person1 680 690	Cornwallis
+T12	Person2 701 711	Washington
+*	Same_Person T9 T11 T8 T6 T1 T4 T3
+*	Same_Person T5 T2 T10 T12

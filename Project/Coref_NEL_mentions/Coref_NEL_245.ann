@@ -1,39 +1,56 @@
-T1	Person1 175 138	
-T2	Person1 175 184	Aristotle
-T3	Person1 175 399	Aristotle (384 BC 322 BC) are among the most famous of the Greek philosophers. Plato was a student of Socrates, and Aristotle was a student of Plato. These three were probably the greatest thinkers of their time. Aristotle's
-T4	Person1 175 399	Aristotle (384 BC 322 BC) are among the most famous of the Greek philosophers. Plato was a student of Socrates, and Aristotle was a student of Plato. These three were probably the greatest thinkers of their time. Aristotle's
-T5	Person1 175 184	Aristotle
-T6	Person1 49 51	he
-T7	Person1 325 399	These three were probably the greatest thinkers of their time. Aristotle's
-T8	Person1 175 399	Aristotle (384 BC 322 BC) are among the most famous of the Greek philosophers. Plato was a student of Socrates, and Aristotle was a student of Plato. These three were probably the greatest thinkers of their time. Aristotle's
-T9	Person1 175 399	Aristotle (384 BC 322 BC) are among the most famous of the Greek philosophers. Plato was a student of Socrates, and Aristotle was a student of Plato. These three were probably the greatest thinkers of their time. Aristotle's
-T10	Person1 175 399	Aristotle (384 BC 322 BC) are among the most famous of the Greek philosophers. Plato was a student of Socrates, and Aristotle was a student of Plato. These three were probably the greatest thinkers of their time. Aristotle's
-T11	Person1 990 993	him
-T12	Person1 175 184	Aristotle
-T13	Person1 49 51	he
-T14	Person1 49 51	he
-T15	Person1 175 184	Aristotle
-T16	Person1 49 51	he
-T17	Person1 796 799	his
-T18	Person1 49 51	he
-T19	Person1 49 51	he
-T20	Person1 175 399	Aristotle (384 BC 322 BC) are among the most famous of the Greek philosophers. Plato was a student of Socrates, and Aristotle was a student of Plato. These three were probably the greatest thinkers of their time. Aristotle's
-*	Same_Person T1 T2 T3 T4 T5 T6 T7 T8 T9 T10 T11 T12 T13 T14 T15 T16 T17 T18 T19 T20
-T21	Person2 528 531	man
-*	Same_Person T21
-T22	Person3 28 31	men
-*	Same_Person T22
-T23	Person4 962 967	women
-*	Same_Person T23
-T24	Person5 28 31	men
-*	Same_Person T24
-T25	Person6 962 967	women
-*	Same_Person T25
-T26	Person7 28 31	men
-*	Same_Person T26
-T27	Person8 962 967	women
-*	Same_Person T27
-T28	InDatabase 175 184	Aristotle
-T29	InDatabase 175 184	Aristotle
-T30	InDatabase 175 184	Aristotle
-T31	InDatabase 175 184	Aristotle
+T1	InDatabase 122 130	Socrates
+T2	Person1 122 130	Socrates
+T3	InDatabase 148 153	Plato
+T4	Person2 148 153	Plato
+T5	Person3 175 184	Aristotle
+T6	InDatabase 175 184	Aristotle
+T7	Person2 254 259	Plato
+T8	InDatabase 254 259	Plato
+T9	Person1 277 285	Socrates
+T10	InDatabase 277 285	Socrates
+T11	Person3 291 300	Aristotle
+T12	InDatabase 291 300	Aristotle
+T13	InDatabase 318 323	Plato
+T14	Person2 318 323	Plato
+T15	InDatabase 388 397	Aristotle
+T16	Person3 388 397	Aristotle
+T17	InDatabase 536 545	Aristotle
+T18	Person3 536 545	Aristotle
+T19	InDatabase 569 578	Aristotle
+T20	Person3 569 578	Aristotle
+T21	Person3 595 598	man
+T22	Person3 618 620	he
+T23	Person3 705 716	philosopher
+T24	InDatabase 822 831	Aristotle
+T25	Person3 822 831	Aristotle
+T26	Person3 873 882	Aristotle
+T27	InDatabase 873 882	Aristotle
+T28	InDatabase 907 916	Aristotle
+T29	Person3 907 916	Aristotle
+T31	Person4 928 931	men
+T32	Person5 962 967	women
+T30	Person3 990 993	him
+T33	Person5 1030 1035	women
+T34	Person4 999 1002	men
+T35	Person3 1046 1055	Aristotle
+T36	Person3 1146 1148	he
+T37	Person3 1158 1160	he
+T38	Person4 1183 1186	men
+T39	Person5 1191 1196	women
+T40	InDatabase 1256 1265	Aristotle
+T41	Person3 1256 1265	Aristotle
+T42	Person3 1298 1300	he
+T43	Person3 1452 1454	he
+T44	Person3 1512 1514	he
+T45	Person6 1661 1668	Galileo
+T46	InDatabase 1661 1668	Galileo
+T47	Person6 1798 1805	Galileo
+T48	InDatabase 1798 1805	Galileo
+T49	Person3 1907 1916	Aristotle
+T50	InDatabase 1907 1916	Aristotle
+*	Same_Person T45 T47
+*	Same_Person T39 T32 T33
+*	Same_Person T38 T34 T31
+*	Same_Person T29 T26 T36 T37 T49 T44 T43 T42 T41 T35 T30 T25 T23 T22 T21 T18 T20 T16 T11 T5
+*	Same_Person T14 T7 T4
+*	Same_Person T9 T2

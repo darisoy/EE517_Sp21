@@ -1,7 +1,13 @@
-T1	Person1 398 401	son
-*	Same_Person T1
-T2	Person2 384 464	Xerxes I, the son of Darius, who sought to restore peace and order to the empire
+T1	Person2 398 401	son
+*	Same_Person T1 T3 T5 T7 T6
 T3	Person2 384 390	Xerxes
-T4	Person2 67 69	he
-T5	Person2 67 69	he
-*	Same_Person T2 T3 T4 T5
+T2	Person1 405 411	Darius
+T4	Person1 241 247	Darius
+T5	Person2 466 472	Xerxes
+T6	Person2 617 619	he
+T7	Person2 712 714	he
+T8	Person3 901 920	Alexander the Great
+T9	InDatabase 901 920	Alexander the Great
+T10	Person4 1175 1180	Cyrus
+T11	Person1 1185 1191	Darius
+*	Same_Person T11 T2 T4

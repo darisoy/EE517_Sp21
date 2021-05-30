@@ -1,4 +1,3 @@
 T1	Person1 107 113	mother
-*	Same_Person T1
-T2	Person2 107 113	mother
-*	Same_Person T2
+*	Same_Person T1 T2
+T2	Person1 231 237	mother

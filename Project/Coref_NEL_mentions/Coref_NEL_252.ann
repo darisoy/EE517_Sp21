@@ -4,3 +4,6 @@ T2	Person2 521 535	Neil Armstrong
 *	Same_Person T2
 T3	Person3 803 820	Esther C. Goddard
 *	Same_Person T3
+T4	InDatabase 413 428	Galileo Galilei
+T5	Person4 413 428	Galileo Galilei
+T6	InDatabase 521 535	Neil Armstrong

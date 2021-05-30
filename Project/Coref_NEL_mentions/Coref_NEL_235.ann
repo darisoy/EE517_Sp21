@@ -1,6 +1,5 @@
 T1	Person1 1134 1140	Newton
-*	Same_Person T1
-T2	Person2 1134 1140	Newton
-*	Same_Person T2
+*	Same_Person T1 T4
 T3	InDatabase 1134 1140	Newton
-T4	InDatabase 1134 1140	Newton
+T2	InDatabase 1630 1636	Newton
+T4	Person1 1630 1636	Newton
