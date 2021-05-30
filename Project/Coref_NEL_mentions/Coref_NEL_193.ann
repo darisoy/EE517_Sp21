@@ -1,4 +1,6 @@
 T5	Person1 768 771	his
 T6	Person2 775 778	her
 T7	Person3 1497 1500	his
-T8	Person4 1504 1507	her
+T8	Person3 1504 1507	her
+T1	Person3 1434 1454	a patient's genetics
+*	Same_Person T8 T7 T1

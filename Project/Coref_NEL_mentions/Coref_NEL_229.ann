@@ -1,13 +1,13 @@
 T1	Person1 239 245	Newton
 T2	InDatabase 239 245	Newton
 T3	Person2 2096 2099	she
-T4	Person2 2012 2021	scientist
-T5	Person2 1798 1807	scientist
-T6	Person2 1296 1305	scientist
-T7	Person2 1918 1927	scientist
+T4	Person2 2008 2021	The scientist
+T5	Person2 1794 1807	the scientist
+T6	Person2 1294 1305	a scientist
+T7	Person2 1914 1927	the scientist
 T8	Person2 2127 2130	her
 T9	Person2 2231 2234	she
-T10	Person2 2279 2288	scientist
-T11	Person2 2401 2410	scientist
-T12	Person2 2590 2599	scientist
+T10	Person2 2275 2288	the scientist
+T11	Person2 2397 2410	the scientist
+T12	Person2 2586 2599	The scientist
 *	Same_Person T12 T11 T10 T9 T8 T3 T4 T7 T5 T6

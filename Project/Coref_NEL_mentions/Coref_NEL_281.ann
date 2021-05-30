@@ -1,3 +1,4 @@
-T1	Person1 58 65	brother
-*	Same_Person T1 T3
+T1	Person2 58 65	brother
 T3	Person1 90 93	his
+T2	Person1 53 65	your brother
+*	Same_Person T2 T3

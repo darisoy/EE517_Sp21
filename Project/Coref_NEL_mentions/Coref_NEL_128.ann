@@ -1,10 +1,14 @@
 T1	Person1 0 15	Calvin Coolidge
-T2	Person1 215 217	he
 T3	Person1 287 289	he
 T4	Person2 301 315	Samuel Gompers
-T5	Person1 409 417	Coolidge
-T6	Person1 599 607	Coolidge
+T5	Person1 400 417	Governor Coolidge
+T6	Person1 590 607	Governor Coolidge
 T7	Person1 621 623	he
-*	Same_Person T1 T2 T3 T5 T6 T7
+*	Same_Person T1 T3 T5 T6 T7 T10
 T8	InDatabase 0 15	Calvin Coolidge
 T9	InDatabase 301 315	Samuel Gompers
+T10	Person1 446 458	the governor
+T11	Person3 164 180	the commissioner
+T12	Person3 234 250	the commissioner
+*	Same_Person T11 T12 T2
+T2	Person3 215 217	he

@@ -1,5 +1,5 @@
-T1	Person1 140 144	girl
+T1	Person1 136 158	The girl pictured here
 *	Same_Person T1 T2 T5 T3
 T5	Person1 324 327	she
-T2	Person1 314 318	girl
+T2	Person1 310 318	the girl
 T3	Person1 345 348	her

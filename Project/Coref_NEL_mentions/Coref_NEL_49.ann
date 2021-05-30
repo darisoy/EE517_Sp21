@@ -1,4 +1,4 @@
-T1	Person1 0 12	Nicola Tesla
+T1	Person1 0 25	Nicola Tesla: (1856-1943)
 *	Same_Person T1 T3
 T2	Person2 207 223	Alessandro Volta
 *	Same_Person T2 T4 T5

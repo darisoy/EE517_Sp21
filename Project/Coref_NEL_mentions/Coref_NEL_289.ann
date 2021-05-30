@@ -1,6 +1,7 @@
 T1	Person1 0 15	Galileo Galilei
 T4	Person1 180 187	himself
-*	Same_Person T1 T4 T3 T2
+*	Same_Person T1 T4 T3 T2 T6
 T5	InDatabase 0 15	Galileo Galilei
 T2	Person1 90 92	he
 T3	Person1 150 152	he
+T6	Person1 20 73	a professor of mathematics at the University of Padua

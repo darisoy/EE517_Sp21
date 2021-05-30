@@ -1,13 +1,9 @@
 T1	Person1 29 33	boys
-*	Same_Person T1
 T2	Person2 40 45	girls
-*	Same_Person T2
-T4	Person4 371 376	girls
+T4	Person8 371 376	girls
 T5	Person4 199 204	Girls
-*	Same_Person T5 T10 T4 T6
 T9	Person3 135 141	Female
 T3	Person5 246 250	boys
-T10	Person4 283 288	Girls
-T11	Person5 323 327	boys
-*	Same_Person T3 T11
-T6	Person4 881 886	girls
+T10	Person7 283 288	Girls
+T6	Person9 881 886	girls
+T7	Person6 323 327	boys

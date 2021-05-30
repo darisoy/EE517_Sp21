@@ -1,2 +1,4 @@
 T1	Person1 651 654	his
 T2	Person2 658 661	her
+T3	Person1 598 610	one teammate
+*	Same_Person T3 T1

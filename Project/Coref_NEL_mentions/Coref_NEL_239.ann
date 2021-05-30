@@ -2,6 +2,6 @@ T1	Person1 373 376	men
 *	Same_Person T1
 T2	Person2 381 386	women
 *	Same_Person T2
-T3	Person3 429 435	mother
+T3	Person3 418 435	a pregnant mother
 *	Same_Person T3 T4
 T4	Person3 458 461	her

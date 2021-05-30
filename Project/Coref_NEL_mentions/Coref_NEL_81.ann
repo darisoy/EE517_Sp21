@@ -1,4 +1,4 @@
 T2	Person1 94 97	his
-T1	Person1 77 82	miner
+T1	Person1 75 82	a miner
 T3	Person1 115 117	he
 *	Same_Person T1 T2 T3

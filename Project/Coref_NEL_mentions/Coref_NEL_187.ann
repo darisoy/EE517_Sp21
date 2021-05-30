@@ -1,6 +1,6 @@
 T1	Person1 175 183	Muhammad
 T2	Person1 165 168	man
-*	Same_Person T2 T1 T4
+*	Same_Person T2 T1 T4 T11
 T4	Person1 228 230	He
 T5	InDatabase 175 183	Muhammad
 T3	InDatabase 253 260	Abraham
@@ -9,3 +9,4 @@ T7	Person3 262 267	Moses
 T8	Person4 273 278	Jesus
 T9	InDatabase 262 267	Moses
 T10	InDatabase 273 278	Jesus
+T11	Person1 165 183	man named Muhammad

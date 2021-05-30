@@ -1,6 +1,10 @@
 T2	Person2 100 103	men
 T3	Person3 138 143	women
-T4	Person3 160 165	women
-T5	Person3 208 213	Women
+T4	Person7 160 165	women
+T5	Person6 208 213	Women
 T6	Person1 352 369	Rosie the Riveter
-*	Same_Person T5 T4 T3
+T1	Person4 440 445	Alice
+T7	Person4 396 401	Alice
+*	Same_Person T1 T7
+T8	Person5 502 514	Heather Wolf
+T9	Person8 315 321	female

@@ -1,3 +1,5 @@
 T1	Person1 581 586	girls
 T2	Person1 598 603	their
 *	Same_Person T1 T2
+T3	Person3 425 430	males
+T4	Person2 344 351	females

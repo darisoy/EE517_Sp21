@@ -2,4 +2,5 @@ T1	Person1 26 36	footballer
 T2	Person1 118 133	football player
 T3	Person1 267 270	his
 T4	Person1 332 335	him
-*	Same_Person T1 T2 T3 T4
+*	Same_Person T1 T2 T3 T4 T5
+T5	Person1 220 247	the 65,0 kg football player

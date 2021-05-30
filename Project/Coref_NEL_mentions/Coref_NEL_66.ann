@@ -1,4 +1,4 @@
-T1	Person1 5 24	Nicolaus Copernicus
+T1	Person1 0 24	1543 Nicolaus Copernicus
 T2	Person1 35 38	his
 T3	Person1 132 135	His
 *	Same_Person T1 T2 T3

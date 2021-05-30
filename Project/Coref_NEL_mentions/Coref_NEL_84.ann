@@ -2,8 +2,10 @@ T1	Person1 0 6	Newton
 *	Same_Person T1 T2 T6
 T3	Person2 217 222	Dineo
 T7	Person2 415 418	him
-*	Same_Person T3 T7 T4
+*	Same_Person T3 T7 T4 T5 T8
 T9	InDatabase 0 6	Newton
 T2	Person1 179 185	Newton
 T4	Person2 314 316	he
 T6	Person1 333 339	Newton
+T5	Person2 352 354	he
+T8	Person2 368 371	his

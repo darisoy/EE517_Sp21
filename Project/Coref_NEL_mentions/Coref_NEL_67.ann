@@ -2,4 +2,3 @@ T1	Person1 242 261	Nicolaus Copernicus
 T2	Person1 289 291	He
 *	Same_Person T1 T2
 T5	InDatabase 242 261	Nicolaus Copernicus
-T3	Person1 147 170	a Portuguese astronomer

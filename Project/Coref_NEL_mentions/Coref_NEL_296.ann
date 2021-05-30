@@ -1,4 +1,4 @@
-T1	Person1 17 32	Stephen Douglas
+T1	Person1 9 32	Senator Stephen Douglas
 *	Same_Person T1 T2
 T3	InDatabase 17 32	Stephen Douglas
 T2	Person1 211 218	Douglas
