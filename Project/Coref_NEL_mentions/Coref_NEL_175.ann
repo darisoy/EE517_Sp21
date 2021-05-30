@@ -6,7 +6,7 @@ T3	Person3 336 351	Jonathan Weiner
 *	Same_Person T3
 T4	Person4 37 51	Michael Pollan
 *	Same_Person T4
-T6	Person6 416 431	Alfred A. Knopf
+T6	Person5 416 431	Alfred A. Knopf
 *	Same_Person T6
 T7	InDatabase 101 114	David Quammen
 T8	InDatabase 200 210	Carl Sagan

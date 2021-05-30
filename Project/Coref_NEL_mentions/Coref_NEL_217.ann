@@ -17,8 +17,8 @@ T16	Person4 1450 1452	He
 T17	Person4 1486 1489	his
 T18	Person4 1545 1550	Bryan
 T19	Person1 1569 1575	Scopes
-T20	Person5 1858 1863	women
-T21	Person5 1920 1925	women
+T20	Person2 1858 1863	women
+T21	Person2 1920 1925	women
 *	Same_Person T1 T3 T5 T8 T6 T9 T19
 *	Same_Person T7 T13 T15 T14 T17 T16 T18
 *	Same_Person T20 T21

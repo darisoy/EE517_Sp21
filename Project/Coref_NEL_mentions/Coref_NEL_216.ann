@@ -1,6 +1,6 @@
 T1	Person1 19 23	Tony
 *	Same_Person T1
-T2	Person3 26 29	dad
-T4	Person3 61 64	his
-T5	Person3 82 84	He
+T2	Person2 26 29	dad
+T4	Person2 61 64	his
+T5	Person2 82 84	He
 *	Same_Person T4 T5 T2

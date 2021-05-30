@@ -1,5 +1,5 @@
 T1	Person1 680 684	girl
 *	Same_Person T1
-T4	Person3 784 787	she
-T2	Person3 771 775	girl
+T4	Person2 784 787	she
+T2	Person2 771 775	girl
 *	Same_Person T2 T4
