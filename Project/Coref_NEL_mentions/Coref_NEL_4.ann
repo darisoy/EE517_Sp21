@@ -6,15 +6,11 @@ T5	InDatabase 133 142	Roosevelt
 T6	InDatabase 9 13	Taft
 T7	Person1 210 212	he
 T8	Person2 254 263	Roosevelt
-T9	InDatabase 254 263	Roosevelt
 T10	Person1 302 304	He
 T11	Person1 321 324	his
 T12	Person2 371 380	Roosevelt
-T13	InDatabase 371 380	Roosevelt
 T14	Person2 515 524	Roosevelt
-T15	InDatabase 515 524	Roosevelt
 T16	Person2 644 653	Roosevelt
-T17	InDatabase 644 653	Roosevelt
 T18	Person1 538 540	He
 T19	Person1 628 631	his
 T20	Person2 710 713	his
@@ -23,8 +19,8 @@ T22	Person1 804 808	Taft
 T23	InDatabase 804 808	Taft
 T24	Person2 1235 1244	Roosevelt
 T25	InDatabase 1235 1244	Roosevelt
-T26	Person1 1275 1279	Taft
-T27	InDatabase 1275 1279	Taft
+T26	Person1 1265 1279	President Taft
+T27	InDatabase 1265 1279	President Taft
 T28	Person1 1312 1314	He
 T29	Person1 1344 1346	he
 T30	Person1 1428 1431	his

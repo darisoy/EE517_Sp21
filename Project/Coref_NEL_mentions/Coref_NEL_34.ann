@@ -3,4 +3,4 @@ T1	Person1 218 236	Christiaan Huygens
 T2	Person2 53 60	Galileo
 T3	Person2 70 72	He
 *	Same_Person T2 T3
-T4	InDatabase 218 236	Christiaan Huygens
+T4	InDatabase 53 60	Galileo

@@ -1,8 +1,7 @@
 T1	Person2 321 341	Phyllis Schlafly Roe
 T2	Person1 115 120	women
 T3	Person1 152 157	women
-T4	InDatabase 321 341	Phyllis Schlafly Roe
-T5	InDatabase 345 359	Wade Stonewall
+T4	InDatabase 321 337	Phyllis Schlafly
 T6	Person3 345 359	Wade Stonewall
 T7	Person1 601 606	women
 T8	Person1 658 663	Women
@@ -17,7 +16,6 @@ T16	Person6 1296 1301	women
 T17	Person5 1347 1352	women
 T18	Person6 1447 1452	women
 T19	Person7 1485 1498	Betty Friedan
-T20	InDatabase 1485 1498	Betty Friedan
 T21	Person7 1542 1545	her
 T22	Person7 1594 1601	Friedan
 T23	Person1 1613 1618	women

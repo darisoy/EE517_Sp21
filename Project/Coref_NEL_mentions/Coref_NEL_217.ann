@@ -9,7 +9,7 @@ T8	Person1 900 914	John T. Scopes
 T9	Person1 1086 1092	Scopes
 T10	Person3 1262 1268	Darrow
 T11	Person3 767 782	Clarence Darrow
-T12	InDatabase 767 782	Clarence Darrow
+T12	InDatabase 1262 1268	Darrow
 T13	Person4 1280 1285	Bryan
 T14	Person4 1351 1356	Bryan
 T15	Person4 1376 1379	his
@@ -23,3 +23,6 @@ T21	Person2 1920 1925	women
 *	Same_Person T7 T13 T15 T14 T17 T16 T18
 *	Same_Person T20 T21
 *	Same_Person T11 T10
+T22	InDatabase 882 887	Bryan
+T23	InDatabase 1280 1285	Bryan
+T24	InDatabase 1351 1356	Bryan

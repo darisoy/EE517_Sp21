@@ -1,6 +1,6 @@
-T3	Person1 0 16	Sir Isaac Newton
+T3	Person1 4 16	Isaac Newton
 T4	Person1 136 138	He
-T1	InDatabase 0 16	Sir Isaac Newton
+T1	InDatabase 4 16	Isaac Newton
 T2	Person1 358 360	he
 T5	Person1 389 395	Newton
 T6	InDatabase 389 395	Newton

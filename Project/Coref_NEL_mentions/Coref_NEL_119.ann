@@ -1,7 +1,6 @@
 T1	Person1 538 565	Charles-Augustin de Coulomb
 T3	Person1 622 624	He
-*	Same_Person T1 T3 T4
+*	Same_Person T1 T3 T4 T2
 T4	Person1 1029 1031	He
 T2	Person1 1535 1543	Coulomb'
-T5	InDatabase 1535 1543	Coulomb'
 T6	InDatabase 538 565	Charles-Augustin de Coulomb

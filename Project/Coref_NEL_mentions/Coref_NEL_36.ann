@@ -7,9 +7,7 @@ T6	Person3 188 194	Hitler
 T7	InDatabase 188 194	Hitler
 T8	Person1 363 369	Franco
 T9	Person3 813 819	Hitler
-T10	InDatabase 813 819	Hitler
 T11	Person2 821 830	Mussolini
-T12	InDatabase 821 830	Mussolini
 *	Same_Person T11 T5
 *	Same_Person T4 T8 T2
 *	Same_Person T6 T9

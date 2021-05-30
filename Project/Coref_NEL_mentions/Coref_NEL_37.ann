@@ -1,6 +1,5 @@
 T1	Person1 61 64	man
 T3	Person1 86 88	He
 T2	Person1 72 84	Humphry Davy
-T4	InDatabase 72 84	Humphry Davy
 T5	Person1 128 130	he
 *	Same_Person T3 T2 T1 T5

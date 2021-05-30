@@ -26,7 +26,7 @@ T25	Person1 2212 2215	his
 T26	Person1 2264 2273	Malcolm X
 T27	InDatabase 2264 2273	Malcolm X
 T28	Person1 2278 2281	his
-T30	Person3 2297 2305	Muhammad
+T30	InDatabase 2297 2305	Muhammad
 T29	Person1 2430 2437	Malcolm
 T31	Person1 2469 2472	his
 T32	Person1 2612 2614	he
@@ -39,15 +39,21 @@ T38	Person5 2957 2965	Meredith
 T39	Person5 3036 3038	he
 T40	Person6 3059 3062	man
 T41	Person7 3127 3135	Dr. King
-T42	InDatabase 3127 3135	Dr. King
 T43	Person8 3154 3169	Floyd McKissick
 T44	Person9 3183 3201	Stokely Carmichael
 T45	Person5 3233 3241	Meredith
 T46	Person7 3432 3436	King
-T47	Person9 3540 3550	Carmichael
+T47	InDatabase 3540 3550	Carmichael
 T48	Person9 3705 3715	Carmichael
 T49	Person9 3717 3720	his
 *	Same_Person T47 T48 T49 T44
 *	Same_Person T46 T41
 *	Same_Person T37 T39 T45 T38
 *	Same_Person T5 T6 T8 T9 T1 T7 T17 T13 T34 T32 T31 T29 T25 T26 T28 T24 T22 T23 T21 T19 T20 T18 T16 T4 T10
+T50	InDatabase 611 626	Elijah Muhammad
+T51	Person3 611 626	Elijah Muhammad
+T52	Person3 879 887	Muhammad
+T53	Person9 3540 3550	Carmichael
+T54	InDatabase 3705 3715	Carmichael
+*	Same_Person T51 T52 T42
+T42	Person3 2297 2305	Muhammad

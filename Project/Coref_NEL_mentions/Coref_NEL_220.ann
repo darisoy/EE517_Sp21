@@ -51,3 +51,18 @@ T45	InDatabase 4585 4602	Alan B. Shepard J
 *	Same_Person T32 T33
 *	Same_Person T41 T40 T42 T2 T3 T4 T9 T10 T27 T1 T11 T12 T24 T28 T29 T30 T31 T34 T35 T36 T37 T38 T39 T43 T44 T46
 T48	Person13 4661 4679	Colonel John Glenn
+T49	InDatabase 157 180	John Fitzgerald Kennedy
+T50	InDatabase 813 820	Kennedy
+T51	InDatabase 903 911	Caroline
+T52	InDatabase 1247 1250	JFK
+T53	InDatabase 1720 1723	JFK
+T54	InDatabase 2209 2216	Kennedy
+T55	InDatabase 2389 2396	Kennedy
+T56	InDatabase 2479 2486	Kennedy
+T57	InDatabase 2703 2710	Kennedy
+T58	InDatabase 2809 2816	Kennedy
+T59	InDatabase 3195 3202	Kennedy
+T60	InDatabase 3431 3438	Kennedy
+T61	InDatabase 3954 3961	Kennedy
+T62	InDatabase 4077 4084	Kennedy
+T63	InDatabase 4202 4209	Kennedy

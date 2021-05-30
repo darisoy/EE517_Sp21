@@ -17,14 +17,3 @@ T13	Person3 744 747	his
 T14	Person4 497 510	Robert E. Lee
 *	Same_Person T14
 T15	Person1 879 886	Douglas
-T16	InDatabase 0 7	Douglas
-T17	InDatabase 37 44	Lincoln
-T18	InDatabase 44 51	Douglas
-T19	InDatabase 154 164	John Brown
-T20	InDatabase 277 282	Brown
-T21	InDatabase 380 385	Brown
-T22	InDatabase 497 510	Robert E. Lee
-T23	InDatabase 559 564	Brown
-T24	InDatabase 566 571	Brown
-T25	InDatabase 711 716	Brown
-T26	InDatabase 879 886	Douglas

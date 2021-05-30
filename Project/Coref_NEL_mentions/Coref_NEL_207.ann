@@ -3,8 +3,6 @@ T2	Person1 327 330	his
 *	Same_Person T1 T2 T3
 T4	Person2 1102 1123	Alexander Graham Bell
 *	Same_Person T4
-T5	InDatabase 835 853	Christopher Sholes
-*	Same_Person T5
 T6	Person4 1271 1276	Women
 T8	Person5 1406 1411	women
 *	Same_Person T8

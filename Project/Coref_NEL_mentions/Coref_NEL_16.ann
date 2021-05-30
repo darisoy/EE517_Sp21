@@ -13,6 +13,4 @@ T11	Person2 433 440	Galileo
 T12	Person2 469 471	He
 *	Same_Person T6 T7 T8 T9 T10 T11 T12
 T13	InDatabase 0 10	Copernicus
-T14	InDatabase 185 195	Copernicus
-T15	InDatabase 433 440	Galileo
 T16	InDatabase 232 239	Galileo

@@ -1,6 +1,5 @@
 T1	Person1 310 322	Edwin Aldrin
 *	Same_Person T1
-T2	Person2 296 305	Armstrong
+T2	Person2 291 305	Nail Armstrong
 *	Same_Person T2
 T3	InDatabase 310 322	Edwin Aldrin
-T4	InDatabase 296 305	Armstrong

@@ -1,4 +1,3 @@
 T2	Person1 31 33	he
 T1	Person1 0 13	Robert Hooke'
-T3	InDatabase 0 12	Robert Hooke
 *	Same_Person T1 T2

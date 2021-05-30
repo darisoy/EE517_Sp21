@@ -6,3 +6,5 @@ T5	Person2 1570 1575	their
 T6	Person2 1649 1653	them
 *	Same_Person T1 T2 T3
 *	Same_Person T4 T5 T6
+T7	InDatabase 1167 1186	William Marcy Tweed
+T8	InDatabase 1188 1198	Boss Tweed

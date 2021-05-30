@@ -1,5 +1,4 @@
 T1	Person1 417 428	John Sutter
-T3	InDatabase 1392 1405	Patrick Breen
 T7	Person3 1703 1707	wife
 *	Same_Person T7
 T8	InDatabase 417 428	John Sutter
@@ -11,3 +10,6 @@ T6	Person2 1692 1697	Breen
 T10	Person2 1699 1702	his
 *	Same_Person T1 T2 T9 T4
 *	Same_Person T5 T6 T10
+T11	InDatabase 522 528	Sutter
+T12	InDatabase 667 673	Sutter
+T13	InDatabase 871 877	Sutter

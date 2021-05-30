@@ -12,3 +12,9 @@ T11	Person1 680 690	Cornwallis
 T12	Person2 701 711	Washington
 *	Same_Person T9 T11 T8 T6 T1 T4 T3
 *	Same_Person T5 T2 T10 T12
+T13	InDatabase 38 48	Cornwallis
+T14	InDatabase 124 134	Washington
+T15	InDatabase 461 471	Cornwallis
+T16	InDatabase 680 690	Cornwallis
+T17	InDatabase 591 601	Washington
+T18	InDatabase 701 711	Washington

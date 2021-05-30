@@ -1,5 +1,4 @@
 T1	Person1 279 297	Michael Harrington
-T2	InDatabase 279 297	Michael Harrington
 T3	Person2 416 423	Kennedy
 T4	InDatabase 416 423	Kennedy
 T5	Person2 452 454	he
@@ -10,7 +9,6 @@ T9	InDatabase 610 617	Kennedy
 T10	Person2 773 780	Kennedy
 T11	InDatabase 773 780	Kennedy
 T12	Person4 822 835	John Connally
-T13	InDatabase 822 835	John Connally
 T14	Person4 879 882	his
 T15	Person5 883 887	wife
 T16	Person2 899 906	Kennedy

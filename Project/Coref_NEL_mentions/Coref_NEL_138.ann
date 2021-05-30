@@ -1,8 +1,7 @@
-T1	InDatabase 56 63	Jackson
 T2	Person1 56 63	Jackson
 T3	Person1 89 91	he
 T4	Person1 96 99	his
 T5	Person1 194 196	he
-T6	Person1 220 227	Jackson
-T7	InDatabase 220 227	Jackson
+T6	Person1 210 227	Stonewall Jackson
+T7	InDatabase 210 227	Stonewall Jackson
 *	Same_Person T2 T3 T4 T5 T6

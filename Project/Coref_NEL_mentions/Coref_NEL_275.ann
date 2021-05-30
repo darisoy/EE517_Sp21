@@ -7,5 +7,7 @@ T6	Person5 928 941	Jeff Schmaltz
 T8	InDatabase 1003 1014	Dave Newman
 T3	Person1 42 56	Scott Foresman
 T7	Person4 603 608	Ludek
-T1	Person6 1092 1103	Dave Newman
+T1	InDatabase 1092 1103	Dave Newman
 T9	Person8 351 369	Stephen Aaron Rees
+T10	Person7 1092 1103	Dave Newman
+*	Same_Person T2 T10

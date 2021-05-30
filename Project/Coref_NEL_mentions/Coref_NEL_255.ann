@@ -2,12 +2,10 @@ T1	Person2 692 708	Thomas Jefferson
 T2	Person1 396 406	Washington
 T3	InDatabase 396 406	Washington
 T4	Person1 523 533	Washington
-T5	InDatabase 523 533	Washington
 *	Same_Person T2 T4 T6 T7 T8 T18
 T6	Person1 576 578	he
 T7	Person1 588 590	He
 T8	Person1 675 685	Washington
-T9	InDatabase 675 685	Washington
 T10	InDatabase 692 708	Thomas Jefferson
 T11	InDatabase 732 750	Alexander Hamilton
 T12	Person3 732 750	Alexander Hamilton
@@ -21,3 +19,4 @@ T19	Person2 1004 1013	Jefferson
 T20	Person3 1018 1026	Hamilton
 *	Same_Person T12 T20
 *	Same_Person T19 T1
+T5	InDatabase 1004 1013	Jefferson

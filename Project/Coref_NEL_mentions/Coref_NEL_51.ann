@@ -2,7 +2,6 @@ T1	Person1 0 14	Samuel Gompers
 *	Same_Person T1
 T4	Person2 294 297	his
 T5	InDatabase 0 14	Samuel Gompers
-T2	InDatabase 126 130	Debs
 T3	Person2 186 190	Debs
 T6	Person2 126 130	Debs
 *	Same_Person T6 T3 T4

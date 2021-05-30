@@ -10,4 +10,11 @@ T8	Person3 901 920	Alexander the Great
 T9	InDatabase 901 920	Alexander the Great
 T10	Person4 1175 1180	Cyrus
 T11	Person1 1185 1191	Darius
-*	Same_Person T11 T2 T4
+*	Same_Person T11 T2 T4 T18
+T12	InDatabase 241 247	Darius
+T13	InDatabase 384 390	Xerxes
+T14	InDatabase 405 411	Darius
+T15	InDatabase 466 472	Xerxes
+T16	InDatabase 1185 1191	Darius
+T17	InDatabase 91 97	Darius
+T18	Person1 91 97	Darius
