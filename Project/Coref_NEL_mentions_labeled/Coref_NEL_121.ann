@@ -1,0 +1,9 @@
+T1	Person1 0 5	Haber
+T3	Person1 109 111	he
+T5	Person1 215 217	He
+T7	Person2 195 201	mother
+T8	InDatabase 0 5	Haber
+T4	Person1 160 162	he
+T2	Person1 191 194	his
+T6	Person1 265 268	his
+*	Same_Person T3 T4 T1 T2 T5 T6

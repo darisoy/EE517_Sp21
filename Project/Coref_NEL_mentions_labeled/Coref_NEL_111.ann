@@ -1,0 +1,8 @@
+T1	Person1 11 17	Darwin
+T5	InDatabase 11 17	Darwin
+T3	Person1 186 189	his
+*	Same_Person T1 T3 T8 T10
+T8	Person1 97 103	Darwin
+T9	InDatabase 97 103	Darwin
+T10	Person1 220 226	Darwin
+T11	InDatabase 220 226	Darwin

@@ -1,7 +1,0 @@
-T1	Person1 362 379	George Washington
-*	Same_Person T1
-T2	Person2 362 425	George Washington, a 21 year old lieutenant in the British army
-T3	Person2 27 29	he
-T4	Person2 71 74	his
-*	Same_Person T2 T3 T4
-T5	InDatabase 362 379	George Washington

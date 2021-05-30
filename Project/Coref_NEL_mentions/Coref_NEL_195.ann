@@ -1,5 +1,0 @@
-T1	Person1 683 688	woman
-*	Same_Person T1
-T2	Person2 2 688	anges in Chromosome Number So far we have focused on traits due to one gene or several genes. But what about many genes? What would happen if an entire chromosome were missing or duplicated? What if a human had only 45 chromosomes? Or 47? This real possibility is usually due to mistakes during meiosis; the chromosomes do not fully separate from each other during sperm or egg formation. Specifically, nondisjunction is the failure of replicated chromosomes to separate during anaphase II. If a zygote forms from a gamete lacking a chromosome, a viable embryo cannot be produced. Most human abnormal chromosome numbers result in the death of the developing embryo, often before a woman
-T3	Person2 703 706	she
-*	Same_Person T2 T3

@@ -1,0 +1,7 @@
+T1	Person1 126 140	Charles Darwin
+T2	Person1 194 197	His
+T3	Person1 178 181	who
+*	Same_Person T1 T2 T3 T4
+T5	InDatabase 126 140	Charles Darwin
+T6	InDatabase 248 254	Darwin
+T4	Person1 248 254	Darwin

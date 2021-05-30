@@ -1,0 +1,14 @@
+T1	Person3 438 449	Clark Gable
+*	Same_Person T1
+T2	Person4 454 467	Jimmy Stewart
+*	Same_Person T2
+T4	Person2 392 397	women
+*	Same_Person T4
+T5	Person5 647 652	Women
+*	Same_Person T5
+T7	Person7 732 737	woman
+*	Same_Person T7
+T8	InDatabase 438 449	Clark Gable
+T9	InDatabase 454 467	Jimmy Stewart
+T10	Person1 233 236	men
+T3	Person6 653 658	Women

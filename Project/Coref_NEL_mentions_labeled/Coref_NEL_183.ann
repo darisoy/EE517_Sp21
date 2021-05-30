@@ -1,0 +1,5 @@
+T1	Person1 29 35	Newton
+*	Same_Person T1 T2
+T3	InDatabase 29 35	Newton
+T4	InDatabase 59 67	Newton's
+T2	Person1 59 65	Newton

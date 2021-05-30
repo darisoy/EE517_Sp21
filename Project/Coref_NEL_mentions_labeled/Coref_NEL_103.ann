@@ -1,0 +1,14 @@
+T2	Person1 141 154	James Madison
+T6	Person2 763 779	William Paterson
+*	Same_Person T6
+T8	Person5 2659 2665	father
+*	Same_Person T8
+T9	InDatabase 141 154	James Madison
+T11	InDatabase 1357 1370	Roger Sherman
+T12	InDatabase 1375 1391	Oliver Ellsworth
+T1	InDatabase 763 779	William Paterson
+T4	Person3 1357 1370	Roger Sherman
+T3	Person4 1375 1391	Oliver Ellsworth
+T5	Person1 2613 2626	James Madison
+T7	InDatabase 2613 2626	James Madison
+*	Same_Person T2 T5

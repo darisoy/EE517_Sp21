@@ -1,0 +1,10 @@
+T1	Person1 19 24	women
+*	Same_Person T1 T2
+T2	Person1 58 63	their
+T3	Person2 89 94	women
+T4	Person2 139 144	their
+T5	Person2 206 211	their
+T6	Person3 244 249	women
+T7	Person3 292 297	their
+*	Same_Person T3 T4 T5
+*	Same_Person T6 T7

@@ -1,0 +1,5 @@
+T1	Person1 362 379	George Washington
+T3	Person1 515 517	he
+T4	Person1 527 530	his
+*	Same_Person T3 T4 T1
+T5	InDatabase 362 379	George Washington

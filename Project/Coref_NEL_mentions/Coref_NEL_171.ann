@@ -1,8 +1,0 @@
-T1	Person1 126 140	Charles Darwin
-T2	Person1 194 197	His
-T3	Person1 134 256	Darwin is one of the most famous scientists who ever lived. His place in the history of science is well deserved. Darwin's
-*	Same_Person T1 T2 T3
-T4	Person2 134 140	Darwin
-*	Same_Person T4
-T5	InDatabase 126 140	Charles Darwin
-T6	InDatabase 134 140	Darwin

@@ -1,0 +1,6 @@
+T1	Person1 27 33	female
+T3	Person1 65 68	she
+*	Same_Person T1 T3 T5
+T4	Person2 216 221	woman
+*	Same_Person T4
+T5	Person1 135 138	she

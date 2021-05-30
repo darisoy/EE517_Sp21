@@ -1,0 +1,18 @@
+T1	Person1 0 10	Copernicus
+T2	Person1 27 30	his
+T3	Person1 47 49	he
+T4	Person1 70 72	He
+T5	Person1 185 195	Copernicus
+*	Same_Person T1 T2 T3 T4 T5
+T6	Person2 232 239	Galileo
+T7	Person2 300 302	He
+T8	Person2 241 243	He
+T9	Person2 339 341	he
+T10	Person2 418 421	his
+T11	Person2 433 440	Galileo
+T12	Person2 469 471	He
+*	Same_Person T6 T7 T8 T9 T10 T11 T12
+T13	InDatabase 0 10	Copernicus
+T14	InDatabase 185 195	Copernicus
+T15	InDatabase 433 440	Galileo
+T16	InDatabase 232 239	Galileo

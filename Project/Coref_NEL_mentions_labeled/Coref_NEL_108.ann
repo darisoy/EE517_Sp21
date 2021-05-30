@@ -1,0 +1,5 @@
+T2	Person1 21 32	A baby girl
+T3	Person1 110 120	the baby's
+T5	Person1 142 145	her
+*	Same_Person T2 T3 T5 T1
+T1	Person1 154 157	her

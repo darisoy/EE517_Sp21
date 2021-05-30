@@ -1,0 +1,5 @@
+T1	Person1 109 116	Mendel'
+T2	Person1 224 230	Mendel
+T3	Person1 240 242	he
+T4	Person1 344 350	Mendel
+*	Same_Person T1 T2 T3 T4

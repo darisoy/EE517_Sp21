@@ -1,0 +1,24 @@
+T1	Person2 141 156	Maurice Wilkins
+T3	Person3 407 412	Crick
+T4	Person3 273 286	Francis Crick
+*	Same_Person T3 T4 T16
+T6	Person4 396 402	Watson
+T7	Person4 291 306	James D. Watson
+*	Same_Person T6 T7 T20
+T10	Person1 163 166	her
+T11	Person1 117 125	Franklin
+*	Same_Person T10 T11 T18 T8
+T12	InDatabase 291 306	James D. Watson
+T13	InDatabase 141 156	Maurice Wilkins
+T14	InDatabase 273 286	Francis Crick
+T15	InDatabase 407 412	Crick
+T17	InDatabase 37 54	Rosalind Franklin
+T18	Person1 37 54	Rosalind Franklin
+T2	InDatabase 117 126	Franklin,
+T5	InDatabase 396 402	Watson
+T8	Person1 433 441	Franklin
+T9	InDatabase 433 442	Franklin'
+T16	Person3 529 542	Francis Crick
+T19	InDatabase 529 542	Francis Crick
+T20	Person4 547 559	James Watson
+T21	InDatabase 547 559	James Watson

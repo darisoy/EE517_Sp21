@@ -1,9 +1,0 @@
-T1	Person1 56 63	Jackson
-*	Same_Person T1
-T2	Person2 40 63	Formative Check Jackson
-T3	Person2 51 53	he
-T4	Person2 96 99	his
-T5	Person2 56 63	Jackson
-T6	Person2 51 53	he
-*	Same_Person T2 T3 T4 T5 T6
-T7	InDatabase 56 63	Jackson

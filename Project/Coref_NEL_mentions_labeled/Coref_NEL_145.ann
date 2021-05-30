@@ -1,0 +1,10 @@
+T1	Person1 45 50	Venus
+T2	Person1 0 5	Venus
+T3	Person1 92 97	Venus
+T4	Person1 196 201	Venus
+T5	Person1 141 146	Venus
+T6	Person1 212 217	Venus
+*	Same_Person T1 T2 T3 T4 T5 T6
+T7	Person2 126 132	sister
+*	Same_Person T7
+T8	Person3 28 35	goddess

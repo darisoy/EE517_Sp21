@@ -1,0 +1,21 @@
+T1	Person1 8 11	his
+T2	Person1 794 796	he
+T3	Person1 710 712	He
+T4	Person1 71 73	He
+T5	Person1 509 525	Stevens T. Mason
+T8	Person1 266 282	Stevens T. Mason
+T9	Person1 900 902	he
+T10	Person1 675 691	Stevens T. Mason
+T11	Person1 700 703	his
+T12	Person1 141 143	He
+T13	Person1 579 581	he
+T14	Person1 23 25	he
+T15	Person1 867 870	his
+T16	Person1 881 883	He
+T17	Person1 836 838	he
+*	Same_Person T1 T2 T3 T4 T5 T8 T9 T10 T11 T12 T13 T14 T15 T16 T17
+T19	Person2 875 879	wife
+*	Same_Person T19
+T6	InDatabase 266 282	Stevens T. Mason
+T7	InDatabase 509 525	Stevens T. Mason
+T18	InDatabase 675 691	Stevens T. Mason

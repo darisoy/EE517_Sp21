@@ -1,0 +1,8 @@
+T1	Person1 663 681	David Lloyd George
+*	Same_Person T1
+T2	Person2 188 191	His
+T3	Person2 224 230	Wilson
+T4	Person2 286 289	his
+T5	Person2 566 572	Wilson
+*	Same_Person T2 T3 T4 T5
+T6	InDatabase 663 681	David Lloyd George

@@ -1,0 +1,10 @@
+T1	Person1 755 761	father
+*	Same_Person T1 T8
+T2	Person2 1146 1152	sister
+*	Same_Person T2 T3 T9 T10
+T4	Person3 1685 1691	mother
+*	Same_Person T4
+T8	Person1 1656 1662	father
+T3	Person2 1849 1855	sister
+T9	Person2 2100 2106	sister
+T10	Person2 2167 2173	sister

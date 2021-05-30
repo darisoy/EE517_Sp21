@@ -1,0 +1,5 @@
+T1	Person2 769 778	Al Capone
+T2	Person1 627 635	brothers
+T3	Person2 886 889	his
+*	Same_Person T2 T3
+T4	InDatabase 769 778	Al Capone

@@ -1,0 +1,5 @@
+T6	Person1 515 518	she
+T1	Person1 326 333	learner
+T2	Person1 733 740	learner
+T3	Person1 843 846	her
+*	Same_Person T1 T6 T2 T3

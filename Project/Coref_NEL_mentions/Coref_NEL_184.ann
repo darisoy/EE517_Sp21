@@ -1,4 +1,0 @@
-T1	Person1 4 10	Mendel
-T2	Person1 25 27	he
-*	Same_Person T1 T2
-T3	InDatabase 4 10	Mendel

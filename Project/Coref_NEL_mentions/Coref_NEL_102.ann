@@ -1,9 +1,0 @@
-T1	Person1 20 25	girls
-*	Same_Person T1
-T2	Person2 61 65	boys
-*	Same_Person T2
-T3	Person3 20 25	girls
-T4	Person3 227 232	their
-*	Same_Person T3 T4
-T5	Person4 20 24	girl
-*	Same_Person T5

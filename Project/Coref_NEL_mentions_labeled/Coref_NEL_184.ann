@@ -1,0 +1,4 @@
+T1	Person1 119 125	Mendel
+T2	Person1 155 157	he
+*	Same_Person T1 T2
+T3	InDatabase 119 125	Mendel

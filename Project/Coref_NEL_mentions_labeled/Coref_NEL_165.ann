@@ -1,0 +1,16 @@
+T1	Person1 376 383	Lincoln
+T2	InDatabase 376 383	Lincoln
+T3	Person2 455 458	Lee
+T4	InDatabase 455 458	Lee
+T5	Person1 516 523	Lincoln
+T6	InDatabase 516 523	Lincoln
+T7	Person3 511 514	Mrs
+T8	InDatabase 598 615	John Wilkes Booth
+T9	Person4 598 615	John Wilkes Booth
+T10	Person1 686 689	him
+*	Same_Person T1 T10 T11
+T11	Person1 796 798	he
+T12	Person1 842 849	Lincoln
+T13	InDatabase 842 849	Lincoln
+T14	Person5 930 944	Andrew Johnson
+T15	InDatabase 930 944	Andrew Johnson

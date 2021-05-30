@@ -1,0 +1,4 @@
+T1	Person1 0 12	Robert Hooke
+T2	Person1 55 57	he
+*	Same_Person T1 T2
+T3	InDatabase 0 12	Robert Hooke

@@ -1,0 +1,8 @@
+T1	Person1 20 25	girls
+*	Same_Person T1
+T2	Person2 61 65	boys
+*	Same_Person T2
+T4	Person3 227 232	their
+T6	Person3 216 221	girls
+*	Same_Person T6 T4
+T3	Person4 384 388	girl

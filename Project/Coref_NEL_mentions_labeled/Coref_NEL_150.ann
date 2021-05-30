@@ -1,0 +1,7 @@
+T1	Person1 44 53	Roosevelt
+T2	Person1 702 711	Roosevelt
+*	Same_Person T1 T2
+T3	InDatabase 44 53	Roosevelt
+T4	InDatabase 702 711	Roosevelt
+T5	Person2 1098 1104	Hitler
+T6	InDatabase 1098 1104	Hitler

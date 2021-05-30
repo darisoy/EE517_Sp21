@@ -1,0 +1,9 @@
+T1	Person1 680 697	Alexander Fleming
+*	Same_Person T1 T6 T2 T4 T5 T7 T10
+T6	Person1 762 764	He
+T9	InDatabase 680 697	Alexander Fleming
+T2	Person1 1030 1037	Fleming
+T4	Person1 1205 1212	Fleming
+T5	Person1 1288 1290	He
+T7	Person1 1371 1378	Fleming
+T10	Person1 1461 1463	he

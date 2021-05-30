@@ -1,0 +1,9 @@
+T1	Person1 431 440	Jim Clark
+*	Same_Person T1 T3 T4
+T2	Person3 1060 1067	Johnson
+*	Same_Person T2
+T4	Person1 445 448	his
+T5	Person2 449 452	men
+*	Same_Person T5
+T6	InDatabase 431 440	Jim Clark
+T3	Person1 423 430	sheriff

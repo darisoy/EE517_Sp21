@@ -1,0 +1,9 @@
+T1	Person1 0 7	Galileo
+T3	Person1 42 57	Galileo Galilei
+T4	Person1 114 116	He
+T8	Person1 28 31	his
+*	Same_Person T1 T3 T4 T8 T5 T9 T10 T11
+T9	Person1 208 210	he
+T10	Person1 283 285	he
+T11	Person1 301 304	his
+T5	Person1 123 126	his

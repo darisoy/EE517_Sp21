@@ -1,0 +1,14 @@
+T1	Person1 442 459	Benjamin Franklin
+T2	Person2 484 501	George Washington
+T3	Person3 519 529	John Adams
+T4	Person4 534 550	Thomas Jefferson
+T7	Person5 699 712	Patrick Henry
+T8	InDatabase 442 459	Benjamin Franklin
+T9	InDatabase 484 501	George Washington
+T10	InDatabase 519 529	John Adams
+T11	InDatabase 534 550	Thomas Jefferson
+T5	InDatabase 714 726	John Hancock
+T12	InDatabase 699 712	Patrick Henry
+T13	Person6 714 726	John Hancock
+T14	Person7 732 744	Samuel Adams
+T15	InDatabase 732 744	Samuel Adams

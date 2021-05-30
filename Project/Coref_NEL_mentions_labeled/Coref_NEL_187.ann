@@ -1,0 +1,5 @@
+T1	Person1 175 183	Muhammad
+T2	Person1 165 168	man
+*	Same_Person T2 T1 T4
+T4	Person1 228 230	He
+T5	InDatabase 175 183	Muhammad

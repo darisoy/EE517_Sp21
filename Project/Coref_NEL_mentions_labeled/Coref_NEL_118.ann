@@ -1,0 +1,13 @@
+T3	Person1 171 174	him
+T6	Person1 69 83	Charles Darwin
+*	Same_Person T6 T1 T3 T2 T9
+T8	Person2 347 368	Alfred Russel Wallace
+*	Same_Person T8
+T11	InDatabase 69 83	Charles Darwin
+T13	InDatabase 347 368	Alfred Russel Wallace
+T1	Person1 106 112	Darwin
+T2	Person1 243 249	Darwin
+T4	InDatabase 106 112	Darwin
+T5	InDatabase 243 249	Darwin
+T7	InDatabase 328 342	Charles Darwin
+T9	Person1 328 342	Charles Darwin

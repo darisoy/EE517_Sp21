@@ -1,0 +1,10 @@
+T1	Person1 4 9	Hardy
+*	Same_Person T1 T3 T5 T6
+T2	Person2 63 71	Weinberg
+T3	Person1 27 32	Hardy
+T4	Person2 10 18	Weinberg
+T5	Person1 210 215	Hardy
+T6	Person1 363 368	Hardy
+T7	Person2 216 224	Weinberg
+T8	Person2 369 377	Weinberg
+*	Same_Person T4 T2 T7 T8

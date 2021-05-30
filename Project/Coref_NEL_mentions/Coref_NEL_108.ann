@@ -1,7 +1,0 @@
-T1	Person1 28 32	girl
-*	Same_Person T1
-T2	Person2 21 32	A baby girl
-T3	Person2 81 120	the path of messages through the baby's
-T4	Person2 142 145	her
-T5	Person2 142 145	her
-*	Same_Person T2 T3 T4 T5

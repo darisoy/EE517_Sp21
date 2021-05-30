@@ -1,9 +1,0 @@
-T1	Person1 525 539	Charles Darwin
-T2	Person1 12 14	he
-T3	Person1 448 451	his
-T4	Person1 533 134	
-*	Same_Person T1 T2 T3 T4
-T5	Person2 533 539	Darwin
-*	Same_Person T5
-T6	InDatabase 525 539	Charles Darwin
-T7	InDatabase 533 539	Darwin

@@ -1,8 +1,0 @@
-T1	Person1 175 183	Muhammad
-*	Same_Person T1
-T2	Person2 165 168	man
-*	Same_Person T2
-T3	Person3 3 183	am Islam is the third monotheistic religion developed in the region in the 600s CE in present day Saudi Arabia. Muslims are followers of Islam. Muslims believe a man named Muhammad
-T4	Person3 228 230	He
-*	Same_Person T3 T4
-T5	InDatabase 175 183	Muhammad

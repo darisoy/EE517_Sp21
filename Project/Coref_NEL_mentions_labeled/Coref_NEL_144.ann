@@ -1,0 +1,4 @@
+T1	Person1 65 71	farmer
+T2	Person1 101 104	his
+*	Same_Person T1 T2 T4
+T4	Person1 218 224	farmer

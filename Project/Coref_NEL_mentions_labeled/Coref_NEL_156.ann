@@ -1,0 +1,24 @@
+T1	Person1 279 297	Michael Harrington
+T2	InDatabase 279 297	Michael Harrington
+T3	Person2 416 423	Kennedy
+T4	InDatabase 416 423	Kennedy
+T5	Person2 452 454	he
+T6	Person2 497 500	his
+T7	Person3 605 608	Mrs
+T8	Person2 610 617	Kennedy
+T9	InDatabase 610 617	Kennedy
+T10	Person2 773 780	Kennedy
+T11	InDatabase 773 780	Kennedy
+T12	Person4 822 835	John Connally
+T13	InDatabase 822 835	John Connally
+T14	Person4 879 882	his
+T15	Person5 883 887	wife
+T16	Person2 899 906	Kennedy
+*	Same_Person T12 T14
+T17	InDatabase 899 906	Kennedy
+T18	Person6 927 944	Lee Harvey Oswald
+T19	InDatabase 927 944	Lee Harvey Oswald
+T20	Person2 1071 1078	Kennedy
+T21	InDatabase 1071 1078	Kennedy
+*	Same_Person T3 T5 T6 T8 T10 T16 T20 T22
+T22	Person2 1107 1109	he

@@ -1,4 +1,0 @@
-T1	Person1 55 68	an ice skater
-T2	Person1 94 97	she
-T3	Person1 2 5	her
-*	Same_Person T1 T2 T3

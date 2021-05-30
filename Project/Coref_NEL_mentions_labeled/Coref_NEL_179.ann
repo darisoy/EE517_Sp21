@@ -1,0 +1,9 @@
+T1	Person1 240 246	Newton
+T2	Person1 396 399	his
+T3	Person1 493 499	Newton
+T4	Person1 537 539	he
+T5	Person1 584 590	Newton
+*	Same_Person T1 T2 T3 T4 T5
+T8	InDatabase 493 499	Newton
+T9	InDatabase 584 590	Newton
+T10	InDatabase 240 246	Newton

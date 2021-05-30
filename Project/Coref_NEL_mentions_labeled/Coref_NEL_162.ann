@@ -1,0 +1,10 @@
+T1	Person1 501 505	Sari
+T2	Person1 826 829	she
+T3	Person1 513 516	she
+T4	Person1 629 632	she
+T5	Person1 660 663	She
+T6	Person1 740 743	she
+T7	Person1 766 769	her
+T8	Person1 596 599	she
+*	Same_Person T1 T2 T3 T4 T5 T6 T7 T8
+T9	Person2 521 527	Daniel
